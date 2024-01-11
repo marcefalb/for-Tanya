@@ -1,0 +1,48 @@
+.authorization__wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 472px;
+	width: 100%;
+	
+	margin: 164px auto auto auto;
+}
+.authorization__title {
+	margin-top: 24px;
+	font-size: 60px;
+}
+.authorization__textfields {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	
+	width: 100%;
+	
+	margin-top: 48px;
+	margin-bottom: 16px;
+}
+.authorization__item {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}
+.authorization__checkbox {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	cursor: pointer;
+}
+.auth-validation {
+	display: none;
+	text-align: center;
+	color: red;
+	opacity: .6;
+}
+.auth-validation_active {
+	display: block;
+}
+.authorization__login {
+	margin-top: 8px;
+	width: 100%;
+	text-align: center;
+}

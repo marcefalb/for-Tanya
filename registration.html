@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang='ru'>
+<head>
+	<meta charset='UTF-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+	<title>Регистрация</title>
+	
+	<link rel='stylesheet' href='./assets/css/normalize.css'>
+	<link rel='stylesheet' href='./assets/css/index.css'>
+	<link rel='stylesheet' href='./assets/css/registration.css'>
+</head>
+<body>
+<main>
+	<section class='registration'>
+		<div class='registration__wrapper'>
+			<h1 class='registration__title'>Регистрация</h1>
+			
+			<div class='registration__textfields'>
+				<div class="registration__item">
+					<label for="login" class="label">Логин</label>
+					<input type="text" class='input' id="login">
+				</div>
+				<div class="registration__item">
+					<label for="password" class="label">Пароль</label>
+					<input type="password" class='input' id="password">
+				</div>
+				<div class="registration__checkbox">
+					<input type="checkbox" class='checkbox' id="remember">
+					<label for="remember" class="label">Сохранить данные</label>
+				</div>
+			</div>
+			
+			<span class='auth-validation'>Заполните все поля!</span>
+			<button class='button registration__login'>Зарегистрироваться</button>
+		</div>
+	</section>
+</main>
+
+<script src="./assets/js/registration.js"></script>
+</body>
+</html>

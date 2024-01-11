@@ -1,0 +1,891 @@
+
+Q	php:S1135ï"4Complete the task associated to this "TODO" comment.(„áñ8½¿è»Ï1
+Q	php:S1135ğ"4Complete the task associated to this "TODO" comment.(ëÈ…8½¿è»Ï1
+]	php:S1131Ğ>"@Remove the useless trailing whitespaces at the end of this line.(âˆšÙ8½¿è»Ï1
+]	php:S1131Õ>"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8½¿è»Ï1
+]	php:S1131ét"@Remove the useless trailing whitespaces at the end of this line.(—Ë±µ8½¿è»Ï1
+]	php:S1131{"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
+^	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
+^	php:S1131¿‚"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
+^	php:S1131Ã‚"@Remove the useless trailing whitespaces at the end of this line.(Éàüù8¾¿è»Ï1
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8¾¿è»Ï1
+lphp:S103ƒ"KSplit this 121 characters long line (which is greater than 120 authorized).(ÁäØ¼şÿÿÿÿ8¾¿è»Ï1
+lphp:S103¥"KSplit this 127 characters long line (which is greater than 120 authorized).(ÙàÌÁÿÿÿÿÿ8¾¿è»Ï1
+gphp:S103Á"KSplit this 168 characters long line (which is greater than 120 authorized).(ƒÀª¼8¾¿è»Ï1
+lphp:S103À"KSplit this 127 characters long line (which is greater than 120 authorized).(†ºÛûÿÿÿÿ8¾¿è»Ï1
+fphp:S103Á"KSplit this 132 characters long line (which is greater than 120 authorized).(ıùŠR8¿¿è»Ï1
+gphp:S103Ì"KSplit this 148 characters long line (which is greater than 120 authorized).(³ÿß‰8¿¿è»Ï1
+lphp:S103—("KSplit this 160 characters long line (which is greater than 120 authorized).(ñ¶¿èùÿÿÿÿ8¿¿è»Ï1
+lphp:S103Ş1"KSplit this 122 characters long line (which is greater than 120 authorized).(İå÷Œúÿÿÿÿ8¿¿è»Ï1
+gphp:S103û1"KSplit this 164 characters long line (which is greater than 120 authorized).(·¼›ç8¿¿è»Ï1
+lphp:S103¶3"KSplit this 134 characters long line (which is greater than 120 authorized).(ø°±şÿÿÿÿ8¿¿è»Ï1
+lphp:S103¹3"KSplit this 122 characters long line (which is greater than 120 authorized).(œÅÑÛøÿÿÿÿ8¿¿è»Ï1
+lphp:S103ó3"KSplit this 134 characters long line (which is greater than 120 authorized).(ø°±şÿÿÿÿ8¿¿è»Ï1
+gphp:S103×4"KSplit this 133 characters long line (which is greater than 120 authorized).(ƒÄÈë8À¿è»Ï1
+lphp:S103€5"KSplit this 134 characters long line (which is greater than 120 authorized).(ø°±şÿÿÿÿ8À¿è»Ï1
+gphp:S103«5"KSplit this 136 characters long line (which is greater than 120 authorized).(Š¤ûÍ8À¿è»Ï1
+lphp:S103ä5"KSplit this 134 characters long line (which is greater than 120 authorized).(ø°±şÿÿÿÿ8À¿è»Ï1
+gphp:S1036"KSplit this 127 characters long line (which is greater than 120 authorized).(Ñ¾ğ²8À¿è»Ï1
+gphp:S103¤7"KSplit this 142 characters long line (which is greater than 120 authorized).(ÜÙÓ8À¿è»Ï1
+lphp:S103‚:"KSplit this 145 characters long line (which is greater than 120 authorized).(Ñ÷úıøÿÿÿÿ8À¿è»Ï1
+gphp:S103¤:"KSplit this 132 characters long line (which is greater than 120 authorized).(¹úù¬8À¿è»Ï1
+lphp:S103ù:"KSplit this 123 characters long line (which is greater than 120 authorized).(ç—óĞøÿÿÿÿ8Á¿è»Ï1
+lphp:S103Š;"KSplit this 259 characters long line (which is greater than 120 authorized).(Ü‰Ìóûÿÿÿÿ8Á¿è»Ï1
+gphp:S103®<"KSplit this 135 characters long line (which is greater than 120 authorized).(¸ğûÙ8Á¿è»Ï1
+gphp:S103ˆ="KSplit this 132 characters long line (which is greater than 120 authorized).(¹úù¬8Á¿è»Ï1
+gphp:S103ß>"KSplit this 157 characters long line (which is greater than 120 authorized).(å‘˜å8Á¿è»Ï1
+lphp:S103ë>"KSplit this 141 characters long line (which is greater than 120 authorized).(òöàşÿÿÿÿ8Á¿è»Ï1
+lphp:S103ó>"KSplit this 159 characters long line (which is greater than 120 authorized).(©–Øùÿÿÿÿ8Á¿è»Ï1
+lphp:S103İC"KSplit this 147 characters long line (which is greater than 120 authorized).(ôàŸªúÿÿÿÿ8Á¿è»Ï1
+gphp:S103¶E"KSplit this 129 characters long line (which is greater than 120 authorized).(šíñ¸8Â¿è»Ï1
+gphp:S103ôF"KSplit this 129 characters long line (which is greater than 120 authorized).(šíñ¸8Â¿è»Ï1
+fphp:S103…Q"KSplit this 121 characters long line (which is greater than 120 authorized).( Œî8Â¿è»Ï1
+lphp:S103¨Q"KSplit this 130 characters long line (which is greater than 120 authorized).(Â“Òõÿÿÿÿÿ8Â¿è»Ï1
+gphp:S103–^"KSplit this 140 characters long line (which is greater than 120 authorized).(âÏ©™8Â¿è»Ï1
+gphp:S103œ_"KSplit this 137 characters long line (which is greater than 120 authorized).(œ¢óã8Â¿è»Ï1
+lphp:S103Æ_"KSplit this 149 characters long line (which is greater than 120 authorized).(ä¼¾‚ÿÿÿÿÿ8Â¿è»Ï1
+fphp:S103õd"KSplit this 121 characters long line (which is greater than 120 authorized).( Œî8Ã¿è»Ï1
+gphp:S103­g"KSplit this 124 characters long line (which is greater than 120 authorized).(Àá¹8Ã¿è»Ï1
+gphp:S103Œl"KSplit this 148 characters long line (which is greater than 120 authorized).(½®õÑ8Ã¿è»Ï1
+gphp:S103ír"KSplit this 127 characters long line (which is greater than 120 authorized).(¢µ‚8Ã¿è»Ï1
+lphp:S103‘s"KSplit this 126 characters long line (which is greater than 120 authorized).(¯’Ö¾øÿÿÿÿ8Ã¿è»Ï1
+lphp:S103Ús"KSplit this 179 characters long line (which is greater than 120 authorized).(šÀÓ ıÿÿÿÿ8Ã¿è»Ï1
+gphp:S103âs"KSplit this 123 characters long line (which is greater than 120 authorized).(­»Ôğ8Ã¿è»Ï1
+lphp:S103ãs"KSplit this 122 characters long line (which is greater than 120 authorized).(µß•„üÿÿÿÿ8Ã¿è»Ï1
+lphp:S103•u"KSplit this 132 characters long line (which is greater than 120 authorized).(€åœïúÿÿÿÿ8Ã¿è»Ï1
+gphp:S103—u"KSplit this 132 characters long line (which is greater than 120 authorized).(¤¹şä8Ä¿è»Ï1
+lphp:S103¶u"KSplit this 132 characters long line (which is greater than 120 authorized).(€åœïúÿÿÿÿ8Ä¿è»Ï1
+lphp:S103¸u"KSplit this 131 characters long line (which is greater than 120 authorized).(Îºæ¬ıÿÿÿÿ8Ä¿è»Ï1
+lphp:S103½v"KSplit this 132 characters long line (which is greater than 120 authorized).(Å¶ø±úÿÿÿÿ8Ä¿è»Ï1
+lphp:S103Ïv"KSplit this 133 characters long line (which is greater than 120 authorized).(Å¶ø±úÿÿÿÿ8Ä¿è»Ï1
+gphp:S103Ñv"KSplit this 125 characters long line (which is greater than 120 authorized).(İı¼8Ä¿è»Ï1
+gphp:S103‘"KSplit this 152 characters long line (which is greater than 120 authorized).(µÌ‡Â8Ä¿è»Ï1
+lphp:S103–"KSplit this 167 characters long line (which is greater than 120 authorized).(Ë¤¸şÿÿÿÿ8Ä¿è»Ï1
+gphp:S103™"KSplit this 146 characters long line (which is greater than 120 authorized).(³ºÙ¬8Ä¿è»Ï1
+mphp:S103û€"KSplit this 172 characters long line (which is greater than 120 authorized).(£ÈÜ¦ıÿÿÿÿ8Å¿è»Ï1
+hphp:S103¼"KSplit this 123 characters long line (which is greater than 120 authorized).(­»Ôğ8Å¿è»Ï1
+mphp:S103½"KSplit this 122 characters long line (which is greater than 120 authorized).(µß•„üÿÿÿÿ8Å¿è»Ï1
+mphp:S103 ƒ"KSplit this 132 characters long line (which is greater than 120 authorized).(€åœïúÿÿÿÿ8Å¿è»Ï1
+mphp:S103Êƒ"KSplit this 132 characters long line (which is greater than 120 authorized).(€åœïúÿÿÿÿ8Å¿è»Ï1
+Ephp:S108š8")Either remove or fill this block of code.(·´ƒÅ8Å¿è»Ï1
+Ephp:S108ï]")Either remove or fill this block of code.(·´ƒÅ8Å¿è»Ï1
+cphp:S107û1"GThis function has 8 parameters, which is greater than the 7 authorized.(·¼›ç8Å¿è»Ï1
+nphp:S100Ó"MRename function "GetAll" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”¥¤ˆúÿÿÿÿ8Å¿è»Ï1
+iphp:S100İ"MRename function "GetCol" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(âÆ‰À8Æ¿è»Ï1
+iphp:S100ç"MRename function "GetOne" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(òÅ÷Š8Æ¿è»Ï1
+sphp:S100ò"RRename function "GetAssocRow" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“è°ñûÿÿÿÿ8Æ¿è»Ï1
+iphp:S100ı"MRename function "GetRow" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™¥§8Æ¿è»Ï1
+ophp:S100"NRename function "Execute" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø‰ëÿÿÿÿÿ8Æ¿è»Ï1
+sphp:S100–"RRename function "GetInsertID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(òê˜·ûÿÿÿÿ8Æ¿è»Ï1
+uphp:S100"TRename function "Affected_Rows" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îö—ÿÿÿÿÿ8Æ¿è»Ï1
+qphp:S100¨"PRename function "GetCursor" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(şâü½ÿÿÿÿÿ8Æ¿è»Ï1
+sphp:S100Ë"RRename function "CommitTrans" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üÓ–Ğúÿÿÿÿ8Æ¿è»Ï1
+rphp:S100Ò"QRename function "StartTrans" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ö¿«¦ıÿÿÿÿ8Æ¿è»Ï1
+lphp:S100Ù"PRename function "FailTrans" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰ªŒñ8Æ¿è»Ï1
+}php:S100÷"\Rename function "DatabaseServerVersion" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“ó„âûÿÿÿÿ8Ç¿è»Ï1
+ophp:S100Ñ	"NRename function "GetCell" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(È°ºèşÿÿÿÿ8Ç¿è»Ï1
+lphp:S100‰…"JRename function "EID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ğ­±©ÿÿÿÿÿ8Ç¿è»Ï1
+qphp:S100°…"TRename function "array_flatten" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ĞŠÎ«8Ç¿è»Ï1
+tphp:S101á„"WRename class "RedBean_SimpleModel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£ß­8Ç¿è»Ï1
+o	php:S1301û"MReplace this "switch" statement with "if" statements to increase readability.(Ôóıÿÿÿÿ8Ç¿è»Ï1
+^	php:S1142¼"<This method has 4 returns, which is more than the 3 allowed.(ªÂÜøşÿÿÿÿ8É¿è»Ï1
+^	php:S1142˜"<This method has 9 returns, which is more than the 3 allowed.(Š±¼”øÿÿÿÿ8É¿è»Ï1
+Y	php:S1142ô"<This method has 4 returns, which is more than the 3 allowed.(ÉË¯8Ê¿è»Ï1
+Y	php:S1142ç8"=This method has 17 returns, which is more than the 3 allowed.(­‘ób8Ê¿è»Ï1
+X	php:S1142Š<"<This method has 6 returns, which is more than the 3 allowed.(­‘ób8Ê¿è»Ï1
+X	php:S1142ın"<This method has 4 returns, which is more than the 3 allowed.(˜¨x8Ê¿è»Ï1
+J	php:S1781Y")Write this "TRUE" constant in lower case.(±«ÁÕıÿÿÿÿ8Ê¿è»Ï1
+G	php:S1781¤"*Write this "FALSE" constant in lower case.(˜À«²8Ê¿è»Ï1
+L	php:S1781É"*Write this "FALSE" constant in lower case.(È¼™êüÿÿÿÿ8Ê¿è»Ï1
+L	php:S1781Î"*Write this "FALSE" constant in lower case.(ãÇ¯Òÿÿÿÿÿ8Ë¿è»Ï1
+F	php:S1781ˆ")Write this "NULL" constant in lower case.(¶£ñÂ8Ë¿è»Ï1
+L	php:S1781²"*Write this "FALSE" constant in lower case.(¼ªÇÂÿÿÿÿÿ8Ë¿è»Ï1
+K	php:S1781·")Write this "TRUE" constant in lower case.(‚´Ø†øÿÿÿÿ8Ë¿è»Ï1
+G	php:S1781Ô"*Write this "FALSE" constant in lower case.(“À¹¾8Ë¿è»Ï1
+L	php:S1781¤"*Write this "FALSE" constant in lower case.(ÁÁè’ûÿÿÿÿ8Ë¿è»Ï1
+F	php:S1781©")Write this "NULL" constant in lower case.(ç×–…8Ë¿è»Ï1
+L	php:S1781Â"*Write this "FALSE" constant in lower case.(Å»›úÿÿÿÿ8Ë¿è»Ï1
+L	php:S1781Ç"*Write this "FALSE" constant in lower case.(ãÇ¯Òÿÿÿÿÿ8Ë¿è»Ï1
+F	php:S1781Û")Write this "TRUE" constant in lower case.(ïç…×8Ë¿è»Ï1
+K	php:S1781à")Write this "NULL" constant in lower case.(“’óşıÿÿÿÿ8Ë¿è»Ï1
+K	php:S1781å")Write this "NULL" constant in lower case.(™†óƒşÿÿÿÿ8Ë¿è»Ï1
+F	php:S1781ú")Write this "NULL" constant in lower case.(¶£ñÂ8Ë¿è»Ï1
+K	php:S1781ş")Write this "NULL" constant in lower case.(ëøÓÖÿÿÿÿÿ8Ë¿è»Ï1
+K	php:S1781¥")Write this "TRUE" constant in lower case.(ÙàÌÁÿÿÿÿÿ8Ì¿è»Ï1
+F	php:S1781±")Write this "NULL" constant in lower case.(ÈÏ¢8Ì¿è»Ï1
+G	php:S1781ù"*Write this "FALSE" constant in lower case.(ÓÈ¿¾8Ì¿è»Ï1
+F	php:S1781ş"*Write this "FALSE" constant in lower case.(ô¥·%8Ì¿è»Ï1
+G	php:S1781„"*Write this "FALSE" constant in lower case.(ßıØ­8Ì¿è»Ï1
+K	php:S1781°")Write this "NULL" constant in lower case.(÷éª¯ÿÿÿÿÿ8Ì¿è»Ï1
+K	php:S1781°")Write this "NULL" constant in lower case.(÷éª¯ÿÿÿÿÿ8Ì¿è»Ï1
+K	php:S1781´")Write this "TRUE" constant in lower case.(ÙŞîùûÿÿÿÿ8Ì¿è»Ï1
+G	php:S1781ó"*Write this "FALSE" constant in lower case.(¾Ü¨¥8Ì¿è»Ï1
+K	php:S1781Ä")Write this "TRUE" constant in lower case.(ÙŞîùûÿÿÿÿ8Ì¿è»Ï1
+K	php:S1781Æ")Write this "NULL" constant in lower case.(½‹Äİûÿÿÿÿ8Ì¿è»Ï1
+K	php:S1781È")Write this "NULL" constant in lower case.(Ëèå»üÿÿÿÿ8Í¿è»Ï1
+F	php:S1781Ê")Write this "NULL" constant in lower case.(õğ÷¦8Í¿è»Ï1
+K	php:S1781ï")Write this "TRUE" constant in lower case.(ôêí¥şÿÿÿÿ8Í¿è»Ï1
+F	php:S1781ğ")Write this "TRUE" constant in lower case.(î³¸ƒ8Í¿è»Ï1
+K	php:S1781ñ")Write this "TRUE" constant in lower case.(á“ÓÌıÿÿÿÿ8Í¿è»Ï1
+K	php:S1781ò")Write this "TRUE" constant in lower case.(ü‚Â¢şÿÿÿÿ8Í¿è»Ï1
+K	php:S1781ó")Write this "TRUE" constant in lower case.(Ù«ıíùÿÿÿÿ8Í¿è»Ï1
+F	php:S1781ô")Write this "TRUE" constant in lower case.(£“Í8Í¿è»Ï1
+K	php:S1781†	")Write this "NULL" constant in lower case.(½‹Äİûÿÿÿÿ8Í¿è»Ï1
+K	php:S1781ˆ	")Write this "NULL" constant in lower case.(Ëèå»üÿÿÿÿ8Í¿è»Ï1
+F	php:S1781Š	")Write this "NULL" constant in lower case.(õğ÷¦8Í¿è»Ï1
+F	php:S1781Â	")Write this "NULL" constant in lower case.(É‰ƒ›8Í¿è»Ï1
+F	php:S1781ü	")Write this "TRUE" constant in lower case.(¯»ˆ8Í¿è»Ï1
+K	php:S1781
+")Write this "NULL" constant in lower case.(ÂßÏ€ùÿÿÿÿ8Î¿è»Ï1
+F	php:S1781Æ")Write this "NULL" constant in lower case.(µ¾Æ’8Î¿è»Ï1
+L	php:S1781Ç"*Write this "FALSE" constant in lower case.(¢Ë­Ùüÿÿÿÿ8Î¿è»Ï1
+L	php:S1781Ø"*Write this "FALSE" constant in lower case.(¢ÿ çüÿÿÿÿ8Î¿è»Ï1
+G	php:S1781ã"*Write this "FALSE" constant in lower case.(şÜŒ€8Î¿è»Ï1
+L	php:S1781è"*Write this "FALSE" constant in lower case.(˜¥‚Úøÿÿÿÿ8Î¿è»Ï1
+G	php:S1781í"*Write this "FALSE" constant in lower case.(Ÿ¶ø¬8Î¿è»Ï1
+E	php:S1781ò")Write this "NULL" constant in lower case.(€õ8Î¿è»Ï1
+G	php:S1781"*Write this "FALSE" constant in lower case.(îÒ®â8Î¿è»Ï1
+K	php:S1781™")Write this "NULL" constant in lower case.(ÅùÀûùÿÿÿÿ8Î¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ß±Òúÿÿÿÿ8Î¿è»Ï1
+F	php:S1781­")Write this "NULL" constant in lower case.(ºô„Ä8Î¿è»Ï1
+K	php:S1781²")Write this "NULL" constant in lower case.(®ÜÄÒøÿÿÿÿ8Î¿è»Ï1
+L	php:S1781·"*Write this "FALSE" constant in lower case.(ñ» ¥øÿÿÿÿ8Ï¿è»Ï1
+L	php:S1781¼"*Write this "FALSE" constant in lower case.(®Ä˜úÿÿÿÿ8Ï¿è»Ï1
+F	php:S1781ú")Write this "NULL" constant in lower case.(Ù¨ÈÆ8Ï¿è»Ï1
+F	php:S1781")Write this "NULL" constant in lower case.(¸®Ëã8Ï¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ÃãøÈıÿÿÿÿ8Ï¿è»Ï1
+K	php:S1781»")Write this "NULL" constant in lower case.(à­–›ùÿÿÿÿ8Ï¿è»Ï1
+F	php:S1781å")Write this "NULL" constant in lower case.(ÂêÛÏ8Ï¿è»Ï1
+K	php:S1781ë")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ï¿è»Ï1
+F	php:S1781ì")Write this "TRUE" constant in lower case.(Øºê8Ï¿è»Ï1
+G	php:S1781¦"*Write this "FALSE" constant in lower case.(Í ÁŠ8Ï¿è»Ï1
+G	php:S1781¦"*Write this "FALSE" constant in lower case.(Í ÁŠ8Ï¿è»Ï1
+F	php:S1781±")Write this "TRUE" constant in lower case.(ç€Û8Ï¿è»Ï1
+G	php:S1781µ"*Write this "FALSE" constant in lower case.(Š±Ãğ8Ğ¿è»Ï1
+L	php:S1781ã"*Write this "FALSE" constant in lower case.( ôÇµşÿÿÿÿ8Ğ¿è»Ï1
+K	php:S1781ü")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ğ¿è»Ï1
+F	php:S1781ı")Write this "TRUE" constant in lower case.(Øºê8Ğ¿è»Ï1
+G	php:S1781"*Write this "FALSE" constant in lower case.(®Ğà»8Ğ¿è»Ï1
+G	php:S1781"*Write this "FALSE" constant in lower case.(®Ğà»8Ğ¿è»Ï1
+F	php:S1781")Write this "TRUE" constant in lower case.(®Ğà»8Ğ¿è»Ï1
+G	php:S1781¬"*Write this "FALSE" constant in lower case.(åı»¹8Ğ¿è»Ï1
+G	php:S1781¬"*Write this "FALSE" constant in lower case.(åı»¹8Ğ¿è»Ï1
+G	php:S1781¬"*Write this "FALSE" constant in lower case.(åı»¹8Ğ¿è»Ï1
+F	php:S1781¾"*Write this "FALSE" constant in lower case.(›Í€/8Ğ¿è»Ï1
+F	php:S1781¾"*Write this "FALSE" constant in lower case.(›Í€/8Ğ¿è»Ï1
+L	php:S1781Ä"*Write this "FALSE" constant in lower case.(‹Ÿ¦ûÿÿÿÿ8Ğ¿è»Ï1
+K	php:S1781ú")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ñ¿è»Ï1
+L	php:S1781ı"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8Ñ¿è»Ï1
+F	php:S1781Œ")Write this "NULL" constant in lower case.(¶ïø8Ñ¿è»Ï1
+F	php:S1781ç")Write this "TRUE" constant in lower case.(¿Ìğ8Ñ¿è»Ï1
+K	php:S1781")Write this "TRUE" constant in lower case.(…¯ë¶ùÿÿÿÿ8Ñ¿è»Ï1
+K	php:S1781‰")Write this "NULL" constant in lower case.(à­–›ùÿÿÿÿ8Ñ¿è»Ï1
+K	php:S1781Š")Write this "NULL" constant in lower case.(ü¡İÂüÿÿÿÿ8Ñ¿è»Ï1
+G	php:S1781‹"*Write this "FALSE" constant in lower case.(áÙä˜8Ñ¿è»Ï1
+L	php:S1781Œ"*Write this "FALSE" constant in lower case.(µ¯²Ïıÿÿÿÿ8Ñ¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ÃãøÈıÿÿÿÿ8Ñ¿è»Ï1
+G	php:S1781¾"*Write this "FALSE" constant in lower case.(†“…ó8Ñ¿è»Ï1
+L	php:S1781¿"*Write this "FALSE" constant in lower case.(“À²²úÿÿÿÿ8Ñ¿è»Ï1
+L	php:S1781À"*Write this "FALSE" constant in lower case.(Í°»¾şÿÿÿÿ8Ñ¿è»Ï1
+K	php:S1781Æ")Write this "TRUE" constant in lower case.(¯Á‚¡ùÿÿÿÿ8Ò¿è»Ï1
+F	php:S1781Ç")Write this "TRUE" constant in lower case.(è‰Òµ8Ò¿è»Ï1
+K	php:S1781È")Write this "TRUE" constant in lower case.(šùÍşÿÿÿÿ8Ò¿è»Ï1
+F	php:S1781Ê")Write this "TRUE" constant in lower case.(è‰Òµ8Ò¿è»Ï1
+F	php:S1781Í")Write this "TRUE" constant in lower case.(ˆÒ£Ä8Ò¿è»Ï1
+K	php:S1781ç")Write this "NULL" constant in lower case.(»æ‰ôùÿÿÿÿ8Ò¿è»Ï1
+L	php:S1781í"*Write this "FALSE" constant in lower case.(ÃîÉúÿÿÿÿ8Ò¿è»Ï1
+K	php:S1781î")Write this "NULL" constant in lower case.(Í¬‹ôşÿÿÿÿ8Ò¿è»Ï1
+K	php:S1781û")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ò¿è»Ï1
+K	php:S1781ƒ")Write this "NULL" constant in lower case.(ü¡İÂüÿÿÿÿ8Ò¿è»Ï1
+K	php:S1781‡")Write this "NULL" constant in lower case.(“‡ˆıøÿÿÿÿ8Ò¿è»Ï1
+K	php:S1781›")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ò¿è»Ï1
+G	php:S1781°"*Write this "FALSE" constant in lower case.(†“…ó8Ò¿è»Ï1
+L	php:S1781±"*Write this "FALSE" constant in lower case.(“À²²úÿÿÿÿ8Ó¿è»Ï1
+L	php:S1781²"*Write this "FALSE" constant in lower case.(Í°»¾şÿÿÿÿ8Ó¿è»Ï1
+K	php:S1781¹")Write this "TRUE" constant in lower case.(¯Á‚¡ùÿÿÿÿ8Ó¿è»Ï1
+F	php:S1781º")Write this "TRUE" constant in lower case.(è‰Òµ8Ó¿è»Ï1
+K	php:S1781»")Write this "TRUE" constant in lower case.(šùÍşÿÿÿÿ8Ó¿è»Ï1
+F	php:S1781½")Write this "TRUE" constant in lower case.(è‰Òµ8Ó¿è»Ï1
+F	php:S1781À")Write this "TRUE" constant in lower case.(ˆÒ£Ä8Ó¿è»Ï1
+L	php:S1781È"*Write this "FALSE" constant in lower case.(ÃîÉúÿÿÿÿ8Ó¿è»Ï1
+K	php:S1781É")Write this "NULL" constant in lower case.(Í¬‹ôşÿÿÿÿ8Ó¿è»Ï1
+G	php:S1781Ì"*Write this "FALSE" constant in lower case.(³ÿß‰8Ó¿è»Ï1
+K	php:S1781Ş")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ó¿è»Ï1
+F	php:S1781ß")Write this "TRUE" constant in lower case.(Øºê8Ó¿è»Ï1
+G	php:S1781ã"*Write this "FALSE" constant in lower case.(¬ŸÈ8Ó¿è»Ï1
+E	php:S1781æ")Write this "NULL" constant in lower case.(ò¯ğs8Ô¿è»Ï1
+K	php:S1781ğ")Write this "NULL" constant in lower case.(—°Å¼şÿÿÿÿ8Ô¿è»Ï1
+L	php:S1781ô"*Write this "FALSE" constant in lower case.(™›µåüÿÿÿÿ8Ô¿è»Ï1
+K	php:S1781ö")Write this "TRUE" constant in lower case.(ÖÓùàûÿÿÿÿ8Ô¿è»Ï1
+L	php:S1781"*Write this "FALSE" constant in lower case.(òè€÷ûÿÿÿÿ8Ô¿è»Ï1
+L	php:S1781"*Write this "FALSE" constant in lower case.(òè€÷ûÿÿÿÿ8Ô¿è»Ï1
+K	php:S1781˜")Write this "TRUE" constant in lower case.(”¼®şÿÿÿÿ8Ô¿è»Ï1
+F	php:S1781™")Write this "TRUE" constant in lower case.(Øºê8Ô¿è»Ï1
+F	php:S1781²")Write this "NULL" constant in lower case.(Åæ²©8Ô¿è»Ï1
+E	php:S1781Ã")Write this "NULL" constant in lower case.(œÑy8Ô¿è»Ï1
+F	php:S1781Ò")Write this "NULL" constant in lower case.(€ÄÉİ8Ô¿è»Ï1
+F	php:S1781›")Write this "NULL" constant in lower case.(É‰ƒ›8Ô¿è»Ï1
+G	php:S1781"*Write this "FALSE" constant in lower case.(œ†Úú8Ô¿è»Ï1
+K	php:S1781¡")Write this "TRUE" constant in lower case.(Ø¡€ìûÿÿÿÿ8Ô¿è»Ï1
+G	php:S1781¦"*Write this "FALSE" constant in lower case.(ÄÒàÔ8Õ¿è»Ï1
+F	php:S1781§")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+K	php:S1781ª")Write this "TRUE" constant in lower case.(Ì¼”ùÿÿÿÿ8Õ¿è»Ï1
+F	php:S1781«")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+F	php:S1781±")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+F	php:S1781´")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+F	php:S1781·")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+F	php:S1781Ä")Write this "NULL" constant in lower case.(É‰ƒ›8Õ¿è»Ï1
+E	php:S1781Ø")Write this "NULL" constant in lower case.(×ê“8Õ¿è»Ï1
+K	php:S1781ÿ")Write this "NULL" constant in lower case.(²ûã–ùÿÿÿÿ8Õ¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ÃãøÈıÿÿÿÿ8Õ¿è»Ï1
+L	php:S1781‚"*Write this "FALSE" constant in lower case.(©é¾ïúÿÿÿÿ8Õ¿è»Ï1
+F	php:S1781‘")Write this "NULL" constant in lower case.(êÔÙ¬8Õ¿è»Ï1
+F	php:S1781Ó")Write this "TRUE" constant in lower case.(ìİêŞ8Ö¿è»Ï1
+G	php:S1781Ù"*Write this "FALSE" constant in lower case.(¼·íú8Ö¿è»Ï1
+F	php:S1781¶")Write this "NULL" constant in lower case.(É‰ƒ›8Ö¿è»Ï1
+G	php:S1781Ú"*Write this "FALSE" constant in lower case.(á¡ûØ8Ö¿è»Ï1
+L	php:S1781ö"*Write this "FALSE" constant in lower case.(±ú¸›şÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781ø")Write this "TRUE" constant in lower case.(Â«üşıÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781ú")Write this "TRUE" constant in lower case.(ÀËßØûÿÿÿÿ8Ö¿è»Ï1
+L	php:S1781û"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8Ö¿è»Ï1
+E	php:S1781Å")Write this "TRUE" constant in lower case.(§åƒ68Ö¿è»Ï1
+K	php:S1781à")Write this "NULL" constant in lower case.(à­–›ùÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ÃãøÈıÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781Ã")Write this "NULL" constant in lower case.(¾¢óÕøÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781Å")Write this "NULL" constant in lower case.(ÃãøÈıÿÿÿÿ8Ö¿è»Ï1
+K	php:S1781")Write this "NULL" constant in lower case.(ÁÓûÔüÿÿÿÿ8Ö¿è»Ï1
+L	php:S1781º"*Write this "FALSE" constant in lower case.(Şß¼Šúÿÿÿÿ8×¿è»Ï1
+F	php:S1781€!")Write this "NULL" constant in lower case.(ÓÂ·Ü8×¿è»Ï1
+G	php:S1781Ã!"*Write this "FALSE" constant in lower case.(…Èş8×¿è»Ï1
+K	php:S1781 "")Write this "NULL" constant in lower case.(ÕÌòûÿÿÿÿ8×¿è»Ï1
+K	php:S1781ø"")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8×¿è»Ï1
+L	php:S1781ú""*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8×¿è»Ï1
+F	php:S1781$")Write this "NULL" constant in lower case.(É‰ƒ›8×¿è»Ï1
+F	php:S1781¥$")Write this "NULL" constant in lower case.(É‰ƒ›8×¿è»Ï1
+F	php:S1781­$")Write this "NULL" constant in lower case.(É‰ƒ›8×¿è»Ï1
+F	php:S1781Ó$")Write this "NULL" constant in lower case.(ë½æÙ8×¿è»Ï1
+F	php:S1781Ø$")Write this "NULL" constant in lower case.(Î·Û‰8×¿è»Ï1
+F	php:S1781İ$")Write this "NULL" constant in lower case.(ƒ„Ò8×¿è»Ï1
+F	php:S1781â$")Write this "NULL" constant in lower case.(şÓ®ä8×¿è»Ï1
+F	php:S1781…%")Write this "NULL" constant in lower case.(É‰ƒ›8×¿è»Ï1
+G	php:S1781â%"*Write this "FALSE" constant in lower case.(¶ô«Â8Ø¿è»Ï1
+K	php:S1781ã%")Write this "TRUE" constant in lower case.(ğü¹Ñÿÿÿÿÿ8Ø¿è»Ï1
+K	php:S1781«&")Write this "NULL" constant in lower case.(¤¤†åúÿÿÿÿ8Ø¿è»Ï1
+G	php:S1781í&"*Write this "FALSE" constant in lower case.(Áá†¿8Ø¿è»Ï1
+G	php:S1781‡'"*Write this "FALSE" constant in lower case.(‰³¶…8Ø¿è»Ï1
+F	php:S1781¡'")Write this "NULL" constant in lower case.(œü²ç8Ø¿è»Ï1
+K	php:S1781¯'")Write this "NULL" constant in lower case.(ä—éŞùÿÿÿÿ8Ø¿è»Ï1
+K	php:S1781Ö'")Write this "NULL" constant in lower case.(ÁŞÑ·ûÿÿÿÿ8Ø¿è»Ï1
+G	php:S1781ô'"*Write this "FALSE" constant in lower case.(Í¤±8Ø¿è»Ï1
+F	php:S1781("*Write this "FALSE" constant in lower case.(ÆÇ¨/8Ø¿è»Ï1
+K	php:S1781—(")Write this "TRUE" constant in lower case.(ñ¶¿èùÿÿÿÿ8Ø¿è»Ï1
+K	php:S1781—(")Write this "NULL" constant in lower case.(ñ¶¿èùÿÿÿÿ8Ø¿è»Ï1
+F	php:S1781§(")Write this "NULL" constant in lower case.(À–¤‹8Ø¿è»Ï1
+F	php:S1781ş("*Write this "FALSE" constant in lower case.(Üµn8Ø¿è»Ï1
+L	php:S1781™)"*Write this "FALSE" constant in lower case.(³œ¿ÿÿÿÿÿ8Ù¿è»Ï1
+F	php:S1781»)")Write this "NULL" constant in lower case.(İøË¡8Ù¿è»Ï1
+L	php:S1781ö)"*Write this "FALSE" constant in lower case.(ø¥úüÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781û)")Write this "TRUE" constant in lower case.(ç¾›Šøÿÿÿÿ8Ù¿è»Ï1
+L	php:S1781€*"*Write this "FALSE" constant in lower case.(ÁüÑúÿÿÿÿ8Ù¿è»Ï1
+L	php:S1781…*"*Write this "FALSE" constant in lower case.(Û–…òıÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781*")Write this "TRUE" constant in lower case.(”ã³Ìûÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781ß*")Write this "NULL" constant in lower case.(á¹àûÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781»+")Write this "NULL" constant in lower case.(›¡Íıÿÿÿÿ8Ù¿è»Ï1
+G	php:S1781­,"*Write this "FALSE" constant in lower case.(éÖö¶8Ù¿è»Ï1
+F	php:S1781ß,")Write this "NULL" constant in lower case.(É‰ƒ›8Ù¿è»Ï1
+L	php:S1781ò,"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781ô,")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ù¿è»Ï1
+K	php:S1781­-")Write this "NULL" constant in lower case.(È¶‹ùÿÿÿÿ8Ù¿è»Ï1
+F	php:S1781æ-")Write this "NULL" constant in lower case.(ôİÍá8Ú¿è»Ï1
+G	php:S1781õ-"*Write this "FALSE" constant in lower case.(™ÖÒ8Ú¿è»Ï1
+K	php:S1781”.")Write this "TRUE" constant in lower case.(¹¥³ˆÿÿÿÿÿ8Ú¿è»Ï1
+E	php:S1781¤.")Write this "TRUE" constant in lower case.(ÿÑ¼}8Ú¿è»Ï1
+F	php:S1781©.")Write this "NULL" constant in lower case.(É‰ƒ›8Ú¿è»Ï1
+F	php:S1781¯.")Write this "NULL" constant in lower case.(É‰ƒ›8Ú¿è»Ï1
+K	php:S1781Ò/")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ú¿è»Ï1
+L	php:S1781Ô/"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8Ú¿è»Ï1
+F	php:S1781«0")Write this "NULL" constant in lower case.(©Ä²¹8Ú¿è»Ï1
+G	php:S1781Í0"*Write this "FALSE" constant in lower case.(ßÜã8Ú¿è»Ï1
+G	php:S1781Ó0"*Write this "FALSE" constant in lower case.(àöÉ«8Ú¿è»Ï1
+K	php:S1781ì0")Write this "NULL" constant in lower case.(¥‚…šüÿÿÿÿ8Ú¿è»Ï1
+F	php:S1781œ1")Write this "NULL" constant in lower case.(Â©òÈ8Ú¿è»Ï1
+L	php:S17811"*Write this "FALSE" constant in lower case.(áªàÁúÿÿÿÿ8Ú¿è»Ï1
+F	php:S1781¶1"*Write this "FALSE" constant in lower case.(†ÎK8Û¿è»Ï1
+K	php:S1781É1")Write this "TRUE" constant in lower case.(üã–›ıÿÿÿÿ8Û¿è»Ï1
+F	php:S1781Ñ1"*Write this "FALSE" constant in lower case.(áËO8Û¿è»Ï1
+G	php:S1781×1"*Write this "FALSE" constant in lower case.(è…“—8Û¿è»Ï1
+L	php:S1781Ü1"*Write this "FALSE" constant in lower case.(ÈìÚæúÿÿÿÿ8Û¿è»Ï1
+K	php:S1781Ü1")Write this "NULL" constant in lower case.(ÈìÚæúÿÿÿÿ8Û¿è»Ï1
+K	php:S1781Ş1")Write this "TRUE" constant in lower case.(İå÷Œúÿÿÿÿ8Û¿è»Ï1
+L	php:S1781ê1"*Write this "FALSE" constant in lower case.(çí—’ùÿÿÿÿ8Û¿è»Ï1
+F	php:S1781û1")Write this "TRUE" constant in lower case.(·¼›ç8Û¿è»Ï1
+F	php:S1781û1")Write this "NULL" constant in lower case.(·¼›ç8Û¿è»Ï1
+K	php:S1781“2")Write this "TRUE" constant in lower case.(íùÏˆşÿÿÿÿ8Û¿è»Ï1
+F	php:S1781š2")Write this "TRUE" constant in lower case.(é§çË8Û¿è»Ï1
+K	php:S1781¥2")Write this "TRUE" constant in lower case.(˜›§İúÿÿÿÿ8Û¿è»Ï1
+F	php:S1781¶2")Write this "TRUE" constant in lower case.(é§çË8Û¿è»Ï1
+F	php:S1781Ë2")Write this "TRUE" constant in lower case.(•¥çğ8Ü¿è»Ï1
+K	php:S1781ù2")Write this "NULL" constant in lower case.(Š¸øïøÿÿÿÿ8Ü¿è»Ï1
+K	php:S17813")Write this "NULL" constant in lower case.(ô•Ãùüÿÿÿÿ8Ü¿è»Ï1
+K	php:S1781§3")Write this "NULL" constant in lower case.(®šá“øÿÿÿÿ8Ü¿è»Ï1
+G	php:S1781¤4"*Write this "FALSE" constant in lower case.(ªÄ…»8Ü¿è»Ï1
+F	php:S1781Í4"*Write this "FALSE" constant in lower case.(èÄ8Ü¿è»Ï1
+L	php:S1781Õ4"*Write this "FALSE" constant in lower case.(ûëòİıÿÿÿÿ8Ü¿è»Ï1
+K	php:S1781Ş4")Write this "NULL" constant in lower case.(¾è¤ãüÿÿÿÿ8Ü¿è»Ï1
+F	php:S1781«5")Write this "TRUE" constant in lower case.(Š¤ûÍ8Ü¿è»Ï1
+F	php:S1781«5")Write this "NULL" constant in lower case.(Š¤ûÍ8Ü¿è»Ï1
+G	php:S1781«5"*Write this "FALSE" constant in lower case.(Š¤ûÍ8Ü¿è»Ï1
+F	php:S1781Ğ5")Write this "NULL" constant in lower case.(¢àÕß8Ü¿è»Ï1
+L	php:S1781ú5"*Write this "FALSE" constant in lower case.(ÕâÌûûÿÿÿÿ8Ü¿è»Ï1
+K	php:S1781ƒ6")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ü¿è»Ï1
+K	php:S1781“6")Write this "NULL" constant in lower case.(»›“òùÿÿÿÿ8İ¿è»Ï1
+K	php:S1781·6")Write this "NULL" constant in lower case.(ğğã‚ûÿÿÿÿ8İ¿è»Ï1
+K	php:S1781·6")Write this "TRUE" constant in lower case.(ğğã‚ûÿÿÿÿ8İ¿è»Ï1
+K	php:S1781¼6")Write this "NULL" constant in lower case.(â£ÄÊúÿÿÿÿ8İ¿è»Ï1
+L	php:S1781É6"*Write this "FALSE" constant in lower case.(¿ŞÈÄøÿÿÿÿ8İ¿è»Ï1
+G	php:S1781Ö6"*Write this "FALSE" constant in lower case.(õ÷•Ÿ8İ¿è»Ï1
+K	php:S1781±7")Write this "TRUE" constant in lower case.(²âÈÒùÿÿÿÿ8İ¿è»Ï1
+L	php:S1781—8"*Write this "FALSE" constant in lower case.(•€Ç–úÿÿÿÿ8İ¿è»Ï1
+F	php:S1781Ì8")Write this "TRUE" constant in lower case.(İÂ§‚8İ¿è»Ï1
+F	php:S1781ç8"*Write this "FALSE" constant in lower case.(­‘ób8İ¿è»Ï1
+G	php:S1781‡9"*Write this "FALSE" constant in lower case.(ÂÏÂ®8İ¿è»Ï1
+F	php:S1781‡9")Write this "TRUE" constant in lower case.(ÂÏÂ®8İ¿è»Ï1
+G	php:S1781ª9"*Write this "FALSE" constant in lower case.(ÂÚ‹ê8İ¿è»Ï1
+K	php:S1781Â9")Write this "TRUE" constant in lower case.(ªĞºÿıÿÿÿÿ8İ¿è»Ï1
+L	php:S1781Î9"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8İ¿è»Ï1
+K	php:S1781Ğ9")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781İ9")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ş¿è»Ï1
+L	php:S1781ß9"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8Ş¿è»Ï1
+G	php:S1781ç9"*Write this "FALSE" constant in lower case.(àÊï¦8Ş¿è»Ï1
+F	php:S1781ë9")Write this "TRUE" constant in lower case.(ô®£ç8Ş¿è»Ï1
+K	php:S1781í9")Write this "TRUE" constant in lower case.(æ›ôØùÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781ï9")Write this "TRUE" constant in lower case.(µğÂ¦ûÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781ğ9")Write this "TRUE" constant in lower case.(ªĞºÿıÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781ñ9")Write this "TRUE" constant in lower case.(æ›ôØùÿÿÿÿ8Ş¿è»Ï1
+L	php:S1781ò9"*Write this "FALSE" constant in lower case.(Á¢ğ¾ùÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781†:")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781˜:")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8Ş¿è»Ï1
+L	php:S1781í:"*Write this "FALSE" constant in lower case.(ÍÿˆŠûÿÿÿÿ8Ş¿è»Ï1
+K	php:S1781ğ:")Write this "TRUE" constant in lower case.(ªĞºÿıÿÿÿÿ8Ş¿è»Ï1
+F	php:S1781ò:")Write this "TRUE" constant in lower case.(ô®£ç8Ş¿è»Ï1
+F	php:S1781ô:")Write this "TRUE" constant in lower case.(½Şâÿ8ß¿è»Ï1
+L	php:S1781ö:"*Write this "FALSE" constant in lower case.(áà¬Õÿÿÿÿÿ8ß¿è»Ï1
+L	php:S1781÷:"*Write this "FALSE" constant in lower case.(ÇíÔÿÿÿÿÿ8ß¿è»Ï1
+L	php:S1781ı:"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ß¿è»Ï1
+K	php:S1781ÿ:")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ß¿è»Ï1
+E	php:S1781ğ;")Write this "TRUE" constant in lower case.(Ü‘D8ß¿è»Ï1
+F	php:S1781Š<"*Write this "FALSE" constant in lower case.(­‘ób8ß¿è»Ï1
+G	php:S1781¬<"*Write this "FALSE" constant in lower case.(ÂÚ‹ê8ß¿è»Ï1
+K	php:S1781Ğ<")Write this "TRUE" constant in lower case.(ªĞºÿıÿÿÿÿ8ß¿è»Ï1
+L	php:S1781Ú<"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ß¿è»Ï1
+K	php:S1781Ü<")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ß¿è»Ï1
+G	php:S1781è<"*Write this "FALSE" constant in lower case.(Ø¨Ñ±8ß¿è»Ï1
+K	php:S1781õ<")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ß¿è»Ï1
+L	php:S1781÷<"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ß¿è»Ï1
+G	php:S1781ş<"*Write this "FALSE" constant in lower case.(àÊï¦8ß¿è»Ï1
+L	php:S1781–="*Write this "FALSE" constant in lower case.(şëÊÂşÿÿÿÿ8à¿è»Ï1
+F	php:S1781¤>")Write this "NULL" constant in lower case.(£®ëÎ8à¿è»Ï1
+G	php:S1781³>"*Write this "FALSE" constant in lower case.(ã›‰8à¿è»Ï1
+F	php:S1781î>")Write this "TRUE" constant in lower case.(¨§Êù8à¿è»Ï1
+F	php:S1781Ş?")Write this "TRUE" constant in lower case.(„‰“8à¿è»Ï1
+F	php:S1781á?")Write this "NULL" constant in lower case.(‰ò”Œ8à¿è»Ï1
+G	php:S1781˜@"*Write this "FALSE" constant in lower case.(‘ÖŠú8à¿è»Ï1
+F	php:S1781›@")Write this "TRUE" constant in lower case.(²œß‡8à¿è»Ï1
+G	php:S1781ŒA"*Write this "FALSE" constant in lower case.(ø¯ÍĞ8à¿è»Ï1
+K	php:S1781µA")Write this "NULL" constant in lower case.(ş‚œ×ùÿÿÿÿ8à¿è»Ï1
+G	php:S1781¤B"*Write this "FALSE" constant in lower case.(©ÌÇ˜8à¿è»Ï1
+F	php:S1781°B")Write this "NULL" constant in lower case.(¾¬Ã¿8à¿è»Ï1
+K	php:S1781ÑB")Write this "NULL" constant in lower case.(áïëîúÿÿÿÿ8à¿è»Ï1
+K	php:S1781ÕB")Write this "TRUE" constant in lower case.(ŠƒÓÓøÿÿÿÿ8à¿è»Ï1
+K	php:S1781ÚB")Write this "NULL" constant in lower case.(áïëîúÿÿÿÿ8à¿è»Ï1
+F	php:S1781áB")Write this "NULL" constant in lower case.(åıû‰8á¿è»Ï1
+F	php:S1781öB")Write this "NULL" constant in lower case.(åıû‰8á¿è»Ï1
+F	php:S1781úB")Write this "NULL" constant in lower case.(¾¬Ã¿8á¿è»Ï1
+K	php:S1781³C")Write this "NULL" constant in lower case.(ıÁø±ÿÿÿÿÿ8á¿è»Ï1
+K	php:S1781ÛC")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8á¿è»Ï1
+L	php:S1781áC"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8á¿è»Ï1
+E	php:S1781®D")Write this "TRUE" constant in lower case.(²Å°c8á¿è»Ï1
+K	php:S1781°D")Write this "TRUE" constant in lower case.(ñíçÿÿÿÿÿ8á¿è»Ï1
+F	php:S1781ÄD")Write this "NULL" constant in lower case.(Ë³Éë8á¿è»Ï1
+L	php:S1781ÆD"*Write this "FALSE" constant in lower case.(ç²“‹üÿÿÿÿ8á¿è»Ï1
+F	php:S1781ÈD")Write this "NULL" constant in lower case.(ïÀ§¬8á¿è»Ï1
+F	php:S1781ËD")Write this "TRUE" constant in lower case.(¬ÿ¦Ø8á¿è»Ï1
+G	php:S1781ÑD"*Write this "FALSE" constant in lower case.(¾éå«8á¿è»Ï1
+K	php:S1781ÒD")Write this "TRUE" constant in lower case.(¾ñ¯ùÿÿÿÿ8á¿è»Ï1
+F	php:S1781ÔD")Write this "TRUE" constant in lower case.(Ş…İ°8â¿è»Ï1
+L	php:S1781ÖD"*Write this "FALSE" constant in lower case.(Üşƒèşÿÿÿÿ8â¿è»Ï1
+E	php:S1781ØD")Write this "TRUE" constant in lower case.(—„»L8â¿è»Ï1
+K	php:S1781ÛD")Write this "TRUE" constant in lower case.(ì±Ğªûÿÿÿÿ8â¿è»Ï1
+E	php:S1781ÜD")Write this "TRUE" constant in lower case.(”•P8â¿è»Ï1
+F	php:S1781àD")Write this "TRUE" constant in lower case.(ŸÜ´û8â¿è»Ï1
+E	php:S1781áD")Write this "TRUE" constant in lower case.(”•P8â¿è»Ï1
+G	php:S1781éD"*Write this "FALSE" constant in lower case.(úñ´²8â¿è»Ï1
+F	php:S1781ğD")Write this "NULL" constant in lower case.(Çº¢Â8â¿è»Ï1
+F	php:S1781¶E")Write this "TRUE" constant in lower case.(šíñ¸8â¿è»Ï1
+K	php:S1781¼E")Write this "NULL" constant in lower case.(Æäı´üÿÿÿÿ8â¿è»Ï1
+G	php:S1781ÈE"*Write this "FALSE" constant in lower case.(Öî”•8â¿è»Ï1
+L	php:S1781ÊE"*Write this "FALSE" constant in lower case.( ”õ­úÿÿÿÿ8â¿è»Ï1
+L	php:S1781¥F"*Write this "FALSE" constant in lower case.(¿ÛÇ‹üÿÿÿÿ8â¿è»Ï1
+F	php:S1781ôF")Write this "TRUE" constant in lower case.(šíñ¸8â¿è»Ï1
+G	php:S1781ÿF"*Write this "FALSE" constant in lower case.(Öî”•8â¿è»Ï1
+L	php:S1781G"*Write this "FALSE" constant in lower case.( ”õ­úÿÿÿÿ8ã¿è»Ï1
+L	php:S1781ÕG"*Write this "FALSE" constant in lower case.(¿ÛÇ‹üÿÿÿÿ8ã¿è»Ï1
+F	php:S1781„H")Write this "NULL" constant in lower case.(£®ëÎ8ã¿è»Ï1
+G	php:S1781“H"*Write this "FALSE" constant in lower case.(óíÎ8ã¿è»Ï1
+F	php:S1781˜H")Write this "NULL" constant in lower case.(‘á™8ã¿è»Ï1
+K	php:S1781H")Write this "NULL" constant in lower case.(ñÑÕıÿÿÿÿ8ã¿è»Ï1
+F	php:S1781¢H")Write this "NULL" constant in lower case.(Î·Û‰8ã¿è»Ï1
+F	php:S1781§H")Write this "NULL" constant in lower case.(˜Õ€³8ã¿è»Ï1
+F	php:S1781¬H")Write this "NULL" constant in lower case.(¯óæ·8ã¿è»Ï1
+E	php:S1781±H"*Write this "FALSE" constant in lower case.(Õ³8ã¿è»Ï1
+F	php:S1781»H")Write this "TRUE" constant in lower case.(ŠÀÄ¾8ã¿è»Ï1
+L	php:S1781÷H"*Write this "FALSE" constant in lower case.(ÎŒõ‰ûÿÿÿÿ8ã¿è»Ï1
+L	php:S1781‘I"*Write this "FALSE" constant in lower case.(Éá†ïúÿÿÿÿ8ã¿è»Ï1
+G	php:S1781ØI"*Write this "FALSE" constant in lower case.(ø¯ÍĞ8ã¿è»Ï1
+F	php:S1781ÜI")Write this "NULL" constant in lower case.(É‰ƒ›8ã¿è»Ï1
+K	php:S1781¢J")Write this "NULL" constant in lower case.(ş‚œ×ùÿÿÿÿ8ã¿è»Ï1
+K	php:S1781°J")Write this "NULL" constant in lower case.(‹ôåûÿÿÿÿ8ã¿è»Ï1
+F	php:S1781«K")Write this "NULL" constant in lower case.(ÅÎøó8ä¿è»Ï1
+L	php:S1781ıK"*Write this "FALSE" constant in lower case.(ÓÀö„üÿÿÿÿ8ä¿è»Ï1
+G	php:S1781L"*Write this "FALSE" constant in lower case.(—È¯Ü8ä¿è»Ï1
+K	php:S1781‘O")Write this "NULL" constant in lower case.(Î‰ ¡ÿÿÿÿÿ8ä¿è»Ï1
+F	php:S1781«O")Write this "NULL" constant in lower case.(ÿ‚÷¿8ä¿è»Ï1
+K	php:S1781ÂO")Write this "NULL" constant in lower case.(£ãÜşÿÿÿÿ8ä¿è»Ï1
+F	php:S1781ÉO")Write this "NULL" constant in lower case.(É‰ƒ›8ä¿è»Ï1
+F	php:S1781ÜO")Write this "NULL" constant in lower case.(Îò½8ä¿è»Ï1
+F	php:S1781áO")Write this "NULL" constant in lower case.(É‰ƒ›8ä¿è»Ï1
+F	php:S1781ôO")Write this "NULL" constant in lower case.(Øó»ö8ä¿è»Ï1
+K	php:S1781¨Q")Write this "NULL" constant in lower case.(Â“Òõÿÿÿÿÿ8ä¿è»Ï1
+F	php:S1781îQ")Write this "TRUE" constant in lower case.(³ƒÑó8ä¿è»Ï1
+K	php:S1781ñQ")Write this "TRUE" constant in lower case.(µ‘Š¯üÿÿÿÿ8ä¿è»Ï1
+K	php:S1781äS")Write this "NULL" constant in lower case.(Åó©¼ÿÿÿÿÿ8ä¿è»Ï1
+F	php:S1781ŠT")Write this "NULL" constant in lower case.(¬Æ¤¯8ä¿è»Ï1
+L	php:S1781øU"*Write this "FALSE" constant in lower case.(·î½‚şÿÿÿÿ8ä¿è»Ï1
+F	php:S1781‚V")Write this "NULL" constant in lower case.(É‰ƒ›8å¿è»Ï1
+F	php:S1781ˆV")Write this "NULL" constant in lower case.(É‰ƒ›8å¿è»Ï1
+G	php:S1781”X"*Write this "FALSE" constant in lower case.( ³¹Ë8å¿è»Ï1
+F	php:S1781¯X")Write this "NULL" constant in lower case.(É‰ƒ›8å¿è»Ï1
+L	php:S1781ŞX"*Write this "FALSE" constant in lower case.(Ñô¤Óşÿÿÿÿ8å¿è»Ï1
+F	php:S1781¥Y")Write this "NULL" constant in lower case.(ì¸¯8å¿è»Ï1
+L	php:S1781ÒY"*Write this "FALSE" constant in lower case.(äÌÉñüÿÿÿÿ8å¿è»Ï1
+L	php:S1781‚Z"*Write this "FALSE" constant in lower case.(¶ûÌıÿÿÿÿ8å¿è»Ï1
+E	php:S1781§Z")Write this "TRUE" constant in lower case.(ş¡ÿ-8å¿è»Ï1
+K	php:S1781»Z")Write this "TRUE" constant in lower case.(ƒ£µëúÿÿÿÿ8å¿è»Ï1
+L	php:S1781ÍZ"*Write this "FALSE" constant in lower case.(‡ƒ©Šüÿÿÿÿ8å¿è»Ï1
+G	php:S1781İ["*Write this "FALSE" constant in lower case.(Â±÷8å¿è»Ï1
+L	php:S1781ß["*Write this "FALSE" constant in lower case.(›ìñàøÿÿÿÿ8å¿è»Ï1
+L	php:S1781ö["*Write this "FALSE" constant in lower case.(™›µåüÿÿÿÿ8å¿è»Ï1
+L	php:S1781ÿ\"*Write this "FALSE" constant in lower case.(² °¾ùÿÿÿÿ8å¿è»Ï1
+L	php:S1781„]"*Write this "FALSE" constant in lower case.(²Ğ²†üÿÿÿÿ8å¿è»Ï1
+F	php:S1781¬]")Write this "NULL" constant in lower case.(¿’³í8æ¿è»Ï1
+L	php:S1781ê]"*Write this "FALSE" constant in lower case.(ŒÓ”¨ıÿÿÿÿ8æ¿è»Ï1
+F	php:S1781–^")Write this "NULL" constant in lower case.(âÏ©™8æ¿è»Ï1
+F	php:S1781–^")Write this "NULL" constant in lower case.(âÏ©™8æ¿è»Ï1
+F	php:S1781–^")Write this "NULL" constant in lower case.(âÏ©™8æ¿è»Ï1
+G	php:S1781–^"*Write this "FALSE" constant in lower case.(âÏ©™8æ¿è»Ï1
+G	php:S1781–^"*Write this "FALSE" constant in lower case.(âÏ©™8æ¿è»Ï1
+F	php:S1781œ_")Write this "NULL" constant in lower case.(œ¢óã8æ¿è»Ï1
+F	php:S1781œ_")Write this "NULL" constant in lower case.(œ¢óã8æ¿è»Ï1
+G	php:S1781œ_"*Write this "FALSE" constant in lower case.(œ¢óã8æ¿è»Ï1
+G	php:S1781œ_"*Write this "FALSE" constant in lower case.(œ¢óã8æ¿è»Ï1
+K	php:S1781Æ_")Write this "NULL" constant in lower case.(ä¼¾‚ÿÿÿÿÿ8æ¿è»Ï1
+K	php:S1781Æ_")Write this "NULL" constant in lower case.(ä¼¾‚ÿÿÿÿÿ8æ¿è»Ï1
+K	php:S1781Æ_")Write this "NULL" constant in lower case.(ä¼¾‚ÿÿÿÿÿ8æ¿è»Ï1
+L	php:S1781Æ_"*Write this "FALSE" constant in lower case.(ä¼¾‚ÿÿÿÿÿ8æ¿è»Ï1
+L	php:S1781Æ_"*Write this "FALSE" constant in lower case.(ä¼¾‚ÿÿÿÿÿ8æ¿è»Ï1
+G	php:S1781†`"*Write this "FALSE" constant in lower case.(†±ºı8ç¿è»Ï1
+L	php:S1781‰`"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ç¿è»Ï1
+K	php:S1781“`")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ç¿è»Ï1
+E	php:S1781µ`")Write this "TRUE" constant in lower case.(„ü¯8ç¿è»Ï1
+F	php:S1781Ò`")Write this "TRUE" constant in lower case.(†Ùí¢8ç¿è»Ï1
+F	php:S1781â`")Write this "NULL" constant in lower case.(„ß³±8ç¿è»Ï1
+K	php:S1781ä`")Write this "NULL" constant in lower case.(íêÊÌÿÿÿÿÿ8ç¿è»Ï1
+L	php:S1781a"*Write this "FALSE" constant in lower case.(ÍêÚÜıÿÿÿÿ8ç¿è»Ï1
+K	php:S1781‘a")Write this "NULL" constant in lower case.(ıÌŒªşÿÿÿÿ8ç¿è»Ï1
+G	php:S1781—a"*Write this "FALSE" constant in lower case.(¦ü–œ8ç¿è»Ï1
+F	php:S1781©a")Write this "TRUE" constant in lower case.(Çÿ½‰8ç¿è»Ï1
+K	php:S1781ía")Write this "NULL" constant in lower case.(íÖÚäúÿÿÿÿ8ç¿è»Ï1
+F	php:S1781ïa")Write this "NULL" constant in lower case.(ßŠ‡Ù8ç¿è»Ï1
+K	php:S1781¤b")Write this "NULL" constant in lower case.(õª¨óıÿÿÿÿ8ç¿è»Ï1
+F	php:S1781³b")Write this "NULL" constant in lower case.(šµ‘²8ç¿è»Ï1
+K	php:S1781·b")Write this "NULL" constant in lower case.(ÍËß¢ûÿÿÿÿ8è¿è»Ï1
+K	php:S1781Øb")Write this "NULL" constant in lower case.( ûö¯ıÿÿÿÿ8è¿è»Ï1
+L	php:S1781Œc"*Write this "FALSE" constant in lower case.(ú€£İşÿÿÿÿ8è¿è»Ï1
+L	php:S1781­c"*Write this "FALSE" constant in lower case.(Ğ´óÑùÿÿÿÿ8è¿è»Ï1
+K	php:S1781½c")Write this "NULL" constant in lower case.(†àœŠøÿÿÿÿ8è¿è»Ï1
+K	php:S1781Ìc")Write this "NULL" constant in lower case.(×’‰Ñúÿÿÿÿ8è¿è»Ï1
+E	php:S1781æc")Write this "NULL" constant in lower case.(°ßÎ8è¿è»Ï1
+E	php:S1781æc")Write this "NULL" constant in lower case.(°ßÎ8è¿è»Ï1
+F	php:S1781èc")Write this "NULL" constant in lower case.(ßŠ‡Ù8è¿è»Ï1
+K	php:S1781õc")Write this "NULL" constant in lower case.(Î‰™ıùÿÿÿÿ8è¿è»Ï1
+F	php:S1781‰d")Write this "NULL" constant in lower case.(Êñµ¶8è¿è»Ï1
+K	php:S1781—d")Write this "NULL" constant in lower case.(×Í×ûÿÿÿÿ8è¿è»Ï1
+F	php:S1781°d")Write this "NULL" constant in lower case.(äñÈ†8è¿è»Ï1
+F	php:S1781Ád")Write this "NULL" constant in lower case.(ÂáµÙ8è¿è»Ï1
+L	php:S1781áf"*Write this "FALSE" constant in lower case.(Ü©Ãÿÿÿÿÿ8è¿è»Ï1
+L	php:S1781g"*Write this "FALSE" constant in lower case.(¤´„ªşÿÿÿÿ8è¿è»Ï1
+L	php:S1781”g"*Write this "FALSE" constant in lower case.(éë°ÿÿÿÿÿ8é¿è»Ï1
+L	php:S1781”g"*Write this "FALSE" constant in lower case.(éë°ÿÿÿÿÿ8é¿è»Ï1
+K	php:S1781×g")Write this "NULL" constant in lower case.(²£§íúÿÿÿÿ8é¿è»Ï1
+F	php:S1781åg")Write this "NULL" constant in lower case.(…½Ÿ±8é¿è»Ï1
+F	php:S1781çg")Write this "NULL" constant in lower case.(¹Öæè8é¿è»Ï1
+F	php:S1781h")Write this "NULL" constant in lower case.(ÜèŞÒ8é¿è»Ï1
+F	php:S1781¡h")Write this "NULL" constant in lower case.(Ö‹—¤8é¿è»Ï1
+L	php:S1781Åh"*Write this "FALSE" constant in lower case.(²¢´ıÿÿÿÿ8é¿è»Ï1
+K	php:S1781üh")Write this "NULL" constant in lower case.(„¡’üûÿÿÿÿ8é¿è»Ï1
+E	php:S1781³j")Write this "NULL" constant in lower case.(¬ğÀQ8é¿è»Ï1
+G	php:S1781ßj"*Write this "FALSE" constant in lower case.(Ìêè8é¿è»Ï1
+K	php:S1781áj")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8é¿è»Ï1
+G	php:S1781ˆk"*Write this "FALSE" constant in lower case.(Ìêè8é¿è»Ï1
+K	php:S1781Šk")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8é¿è»Ï1
+G	php:S1781±k"*Write this "FALSE" constant in lower case.(Ìêè8é¿è»Ï1
+K	php:S1781³k")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8é¿è»Ï1
+F	php:S1781âk")Write this "NULL" constant in lower case.(¬ôŞå8ê¿è»Ï1
+K	php:S1781±l")Write this "TRUE" constant in lower case.( Š·øÿÿÿÿ8ê¿è»Ï1
+L	php:S1781¾l"*Write this "FALSE" constant in lower case.(‹€¶åüÿÿÿÿ8ê¿è»Ï1
+G	php:S1781Ûl"*Write this "FALSE" constant in lower case.(¬ëÊ8ê¿è»Ï1
+F	php:S1781¡m")Write this "NULL" constant in lower case.(“ŠºÆ8ê¿è»Ï1
+K	php:S1781¢n")Write this "NULL" constant in lower case.(òÃŒœşÿÿÿÿ8ê¿è»Ï1
+F	php:S1781´n")Write this "NULL" constant in lower case.(¼¦³¢8ê¿è»Ï1
+K	php:S1781€o")Write this "NULL" constant in lower case.(ÀìûŸúÿÿÿÿ8ê¿è»Ï1
+F	php:S1781‚o")Write this "NULL" constant in lower case.(°ıÃ‘8ê¿è»Ï1
+K	php:S1781ƒo")Write this "NULL" constant in lower case.(Ôıæ¨ÿÿÿÿÿ8ê¿è»Ï1
+K	php:S1781Ğo")Write this "NULL" constant in lower case.(›¡Íıÿÿÿÿ8ê¿è»Ï1
+K	php:S1781ƒp")Write this "NULL" constant in lower case.(ü½ãÿÿÿÿÿ8ê¿è»Ï1
+G	php:S1781»p"*Write this "FALSE" constant in lower case.(ÖÒ‘8ê¿è»Ï1
+F	php:S1781¬q")Write this "TRUE" constant in lower case.(Á»”8ê¿è»Ï1
+F	php:S1781Ñq"*Write this "FALSE" constant in lower case.(µ‚X8ê¿è»Ï1
+K	php:S1781¹r")Write this "TRUE" constant in lower case.(Ùş±öüÿÿÿÿ8ê¿è»Ï1
+F	php:S1781ír")Write this "NULL" constant in lower case.(¢µ‚8ê¿è»Ï1
+F	php:S1781ír")Write this "TRUE" constant in lower case.(¢µ‚8ë¿è»Ï1
+K	php:S1781‘s")Write this "NULL" constant in lower case.(¯’Ö¾øÿÿÿÿ8ë¿è»Ï1
+K	php:S1781‘s")Write this "NULL" constant in lower case.(¯’Ö¾øÿÿÿÿ8ë¿è»Ï1
+K	php:S1781‘s")Write this "NULL" constant in lower case.(¯’Ö¾øÿÿÿÿ8ë¿è»Ï1
+L	php:S1781¥t"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ë¿è»Ï1
+K	php:S1781¨t")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ë¿è»Ï1
+F	php:S1781¶t")Write this "NULL" constant in lower case.(É‰ƒ›8ë¿è»Ï1
+K	php:S1781öt")Write this "NULL" constant in lower case.(Üê ÷şÿÿÿÿ8ë¿è»Ï1
+F	php:S1781—u")Write this "NULL" constant in lower case.(¤¹şä8ë¿è»Ï1
+K	php:S1781¸u")Write this "NULL" constant in lower case.(Îºæ¬ıÿÿÿÿ8ë¿è»Ï1
+E	php:S1781Ëu")Write this "NULL" constant in lower case.(ÌÀÒ98ë¿è»Ï1
+G	php:S1781›w"*Write this "FALSE" constant in lower case.(ÍâÇî8ë¿è»Ï1
+L	php:S1781 w"*Write this "FALSE" constant in lower case.(˜ØØ¥üÿÿÿÿ8ë¿è»Ï1
+K	php:S1781ğw")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8ë¿è»Ï1
+L	php:S1781õw"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8ë¿è»Ï1
+G	php:S1781¯x"*Write this "FALSE" constant in lower case.(›Ë8ë¿è»Ï1
+F	php:S1781Çx")Write this "NULL" constant in lower case.(…©¸8ë¿è»Ï1
+K	php:S1781Êx")Write this "NULL" constant in lower case.(êúÍíÿÿÿÿÿ8ë¿è»Ï1
+L	php:S1781èx"*Write this "FALSE" constant in lower case.(Œºÿ‹øÿÿÿÿ8ë¿è»Ï1
+K	php:S1781˜y")Write this "TRUE" constant in lower case.(€­Ìÿÿÿÿÿ8ì¿è»Ï1
+L	php:S1781áy"*Write this "FALSE" constant in lower case.(ÿ‘şìüÿÿÿÿ8ì¿è»Ï1
+G	php:S1781™z"*Write this "FALSE" constant in lower case.(åÅµß8ì¿è»Ï1
+G	php:S1781™z"*Write this "FALSE" constant in lower case.(åÅµß8ì¿è»Ï1
+F	php:S1781¢z")Write this "TRUE" constant in lower case.(Ş®Ú™8ì¿è»Ï1
+G	php:S1781£z"*Write this "FALSE" constant in lower case.(Æ¢«²8ì¿è»Ï1
+F	php:S1781¦z")Write this "TRUE" constant in lower case.(Ò£Æ¨8ì¿è»Ï1
+F	php:S1781äz")Write this "NULL" constant in lower case.(¬ôŞå8ì¿è»Ï1
+K	php:S1781{")Write this "TRUE" constant in lower case.(Ô¸ƒ¨ÿÿÿÿÿ8ì¿è»Ï1
+L	php:S1781|"*Write this "FALSE" constant in lower case.(¯ñÏ¹şÿÿÿÿ8ì¿è»Ï1
+F	php:S1781Â|"*Write this "FALSE" constant in lower case.(ìæ_8ì¿è»Ï1
+L	php:S1781Ç|"*Write this "FALSE" constant in lower case.(ÇœÍñıÿÿÿÿ8ì¿è»Ï1
+F	php:S1781Ï~"*Write this "FALSE" constant in lower case.(…’8ì¿è»Ï1
+F	php:S1781ß~")Write this "TRUE" constant in lower case.(ÎÇÚá8ì¿è»Ï1
+F	php:S1781‘")Write this "NULL" constant in lower case.(µÌ‡Â8ì¿è»Ï1
+F	php:S1781‘")Write this "TRUE" constant in lower case.(µÌ‡Â8ì¿è»Ï1
+G	php:S1781¡"*Write this "FALSE" constant in lower case.(ŠêŒ8ì¿è»Ï1
+L	php:S1781§"*Write this "FALSE" constant in lower case.(À«Ó øÿÿÿÿ8í¿è»Ï1
+G	php:S1781ƒ€")Write this "NULL" constant in lower case.(¿í’8í¿è»Ï1
+G	php:S1781ƒ€")Write this "NULL" constant in lower case.(¿í’8í¿è»Ï1
+G	php:S1781ƒ€")Write this "NULL" constant in lower case.(¿í’8í¿è»Ï1
+L	php:S1781‘€")Write this "TRUE" constant in lower case.(÷ô•Àûÿÿÿÿ8í¿è»Ï1
+M	php:S1781€"*Write this "FALSE" constant in lower case.(ä÷–åşÿÿÿÿ8í¿è»Ï1
+G	php:S1781Ÿ€")Write this "NULL" constant in lower case.(É‰ƒ›8í¿è»Ï1
+L	php:S1781Ù")Write this "NULL" constant in lower case.(Û÷ÇÎøÿÿÿÿ8í¿è»Ï1
+L	php:S1781ï")Write this "NULL" constant in lower case.(ßœÀøÿÿÿÿ8í¿è»Ï1
+L	php:S1781Õ‚")Write this "NULL" constant in lower case.(Œ¯¿¶øÿÿÿÿ8í¿è»Ï1
+M	php:S1781Ú‚"*Write this "FALSE" constant in lower case.(Ä¢şÿÿÿÿÿ8í¿è»Ï1
+G	php:S1781ù‚")Write this "NULL" constant in lower case.(üï¸ê8í¿è»Ï1
+L	php:S1781ş‚")Write this "TRUE" constant in lower case.(ä°Ô—ÿÿÿÿÿ8í¿è»Ï1
+G	php:S1781¤ƒ")Write this "NULL" constant in lower case.(ƒ ÑÅ8í¿è»Ï1
+G	php:S1781¤ƒ")Write this "TRUE" constant in lower case.(ƒ ÑÅ8í¿è»Ï1
+M	php:S1781§ƒ"*Write this "FALSE" constant in lower case.(Êœ¡’üÿÿÿÿ8í¿è»Ï1
+F	php:S1781ªƒ")Write this "TRUE" constant in lower case.(ºÚW8í¿è»Ï1
+F	php:S1781Îƒ")Write this "NULL" constant in lower case.(ïÉ™38í¿è»Ï1
+F	php:S1781Îƒ")Write this "TRUE" constant in lower case.(ïÉ™38î¿è»Ï1
+L	php:S1781Ñƒ")Write this "TRUE" constant in lower case.(Ÿ•·şÿÿÿÿ8î¿è»Ï1
+F	php:S1781Ôƒ")Write this "TRUE" constant in lower case.(ºÚW8î¿è»Ï1
+L	php:S1781„")Write this "TRUE" constant in lower case.(†ÁÂÓûÿÿÿÿ8î¿è»Ï1
+L	php:S1781Ÿ„")Write this "TRUE" constant in lower case.(·«š¹ÿÿÿÿÿ8î¿è»Ï1
+M	php:S1781 „"*Write this "FALSE" constant in lower case.(¡¶Íùÿÿÿÿ8î¿è»Ï1
+G	php:S1781¡„")Write this "TRUE" constant in lower case.(Á¤ªø8î¿è»Ï1
+L	php:S1781¦„")Write this "TRUE" constant in lower case.(†ÁÂÓûÿÿÿÿ8î¿è»Ï1
+H	php:S1781§„"*Write this "FALSE" constant in lower case.(ïßö·8î¿è»Ï1
+L	php:S1781¨„")Write this "TRUE" constant in lower case.(”Õ†œşÿÿÿÿ8î¿è»Ï1
+G	php:S1781©„")Write this "TRUE" constant in lower case.(Á¤ªø8î¿è»Ï1
+L	php:S1781¬„")Write this "TRUE" constant in lower case.(†ÁÂÓûÿÿÿÿ8î¿è»Ï1
+L	php:S1781­„")Write this "TRUE" constant in lower case.(·«š¹ÿÿÿÿÿ8î¿è»Ï1
+M	php:S1781®„"*Write this "FALSE" constant in lower case.(¡¶Íùÿÿÿÿ8î¿è»Ï1
+M	php:S1781¯„"*Write this "FALSE" constant in lower case.(àÑ¼ÿøÿÿÿÿ8î¿è»Ï1
+L	php:S1781²„")Write this "TRUE" constant in lower case.(†ÁÂÓûÿÿÿÿ8î¿è»Ï1
+H	php:S1781³„"*Write this "FALSE" constant in lower case.(ïßö·8î¿è»Ï1
+M	php:S1781´„"*Write this "FALSE" constant in lower case.(¡¶Íùÿÿÿÿ8î¿è»Ï1
+M	php:S1781µ„"*Write this "FALSE" constant in lower case.(àÑ¼ÿøÿÿÿÿ8ï¿è»Ï1
+L	php:S1781¸„")Write this "TRUE" constant in lower case.(†ÁÂÓûÿÿÿÿ8ï¿è»Ï1
+H	php:S1781¹„"*Write this "FALSE" constant in lower case.(ïßö·8ï¿è»Ï1
+M	php:S1781º„"*Write this "FALSE" constant in lower case.(¡¶Íùÿÿÿÿ8ï¿è»Ï1
+M	php:S1781»„"*Write this "FALSE" constant in lower case.(àÑ¼ÿøÿÿÿÿ8ï¿è»Ï1
+L	php:S1781¥…")Write this "NULL" constant in lower case.(ªÅÆøÿÿÿÿ8ï¿è»Ï1
+qphp:S116"PRename this field "$__info" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÈÂÀèşÿÿÿÿ8ï¿è»Ï1
+yphp:S116²*"XRename this field "$typeno_sqltype" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆ‹àáıÿÿÿÿ8ï¿è»Ï1
+wphp:S116Ÿ7"VRename this field "$DDLTemplates" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û¦Â¬ùÿÿÿÿ8ï¿è»Ï1
+3php:S113"'Add a new line at the end of this file.
+zphp:S117ç"YRename this local variable "$NULL" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(»æ‰ôùÿÿÿÿ8ï¿è»Ï1
+~php:S117±/"]Rename this parameter "$SQLDefinition" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(–çÇòúÿÿÿÿ8ï¿è»Ï1
+~php:S117A"]Rename this local variable "$OODBBEAN" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ÄˆÆıÿÿÿÿ8ï¿è»Ï1
+bphp:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(ııªò8ï¿è»Ï1
+gphp:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÃóÌƒùÿÿÿÿ8ï¿è»Ï1
+bphp:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(ã•Àä8ï¿è»Ï1
+bphp:S112¤:"FDefine and throw a dedicated exception instead of using a generic one.(¹úù¬8ï¿è»Ï1
+bphp:S112ˆ="FDefine and throw a dedicated exception instead of using a generic one.(¹úù¬8ï¿è»Ï1
+hphp:S112¾„"FDefine and throw a dedicated exception instead of using a generic one.(Ú¯›Óüÿÿÿÿ8ï¿è»Ï1
+q	php:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿ±Æ‰8ğ¿è»Ï1
+q	php:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¹ƒíÄ8ğ¿è»Ï1
+q	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Í ÁŠ8ğ¿è»Ï1
+q	php:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(åı»¹8ğ¿è»Ï1
+v	php:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ªÂÜøşÿÿÿÿ8ğ¿è»Ï1
+v	php:S3776®"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(øŸÏÕüÿÿÿÿ8ğ¿è»Ï1
+q	php:S3776¤-"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ú—è¸8ñ¿è»Ï1
+q	php:S3776œ1"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Â©òÈ8ñ¿è»Ï1
+q	php:S3776û1"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(·¼›ç8ñ¿è»Ï1
+p	php:S3776ç8"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(­‘ób8ñ¿è»Ï1
+q	php:S3776İ>"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ëüÚ¿8ñ¿è»Ï1
+q	php:S3776ÇB"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(• ¶‡8ñ¿è»Ï1
+q	php:S3776ÄD"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ë³Éë8ñ¿è»Ï1
+q	php:S3776­E"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ‚†¬8ò¿è»Ï1
+q	php:S3776L"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(—È¯Ü8ò¿è»Ï1
+v	php:S3776¨Q"TRefactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.(Â“Òõÿÿÿÿÿ8ò¿è»Ï1
+q	php:S3776ŠT"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬Æ¤¯8ò¿è»Ï1
+q	php:S3776¯x"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Ë8ò¿è»Ï1
+v	php:S3776|"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¯ñÏ¹şÿÿÿÿ8ó¿è»Ï1
+r	php:S3776ƒ€"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿í’8ó¿è»Ï1
+w	php:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Û÷ÇÎøÿÿÿÿ8ó¿è»Ï1
+k	php:S1871­C"NThis branch's code block is the same as the block for the branch on line 8619.(éÜü‡8ó¿è»Ï1
+n	php:S1871¸„"KThis case's code block is the same as the block for the case on line 16946.(†ÁÂÓûÿÿÿÿ8ó¿è»Ï1
+j	php:S1192½0"HDefine a constant instead of duplicating this literal " WHERE " 5 times.(“Å‡ïşÿÿÿÿ8ó¿è»Ï1
+h	php:S1192Ö"FDefine a constant instead of duplicating this literal ":slot" 4 times.(÷£ó‹ÿÿÿÿÿ8ó¿è»Ï1
+i	php:S1192Ì"GDefine a constant instead of duplicating this literal ":slot0" 3 times.(’¤Æïıÿÿÿÿ8ó¿è»Ï1
+c	php:S1192Ò"FDefine a constant instead of duplicating this literal " AND " 3 times.(Â‹¶¬8ó¿è»Ï1
+ƒ	php:S1192¬?"aDefine a constant instead of duplicating this literal "Array may only contain OODBBeans" 3 times.(¾¨£Ãøÿÿÿÿ8ó¿è»Ï1
+k	php:S1192‚:"IDefine a constant instead of duplicating this literal "SET NULL" 3 times.(Ñ÷úıøÿÿÿÿ8ó¿è»Ï1
+Q	php:S3801ƒ"4Refactor this function to use "return" consistently.(è‹åú8ó¿è»Ï1
+g	php:S1126Ñ/"EReplace this "if-then-else" statement by a single "return" statement.(ô¿»ÿÿÿÿÿ8ó¿è»Ï1
+v	php:S5843Š;"TSimplify this regular expression to reduce its complexity from 32 to the 20 allowed.(Ü‰Ìóûÿÿÿÿ8ô¿è»Ï1
+|	php:S1488ı	"_Immediately return this expression instead of assigning it to the temporary variable "$cursor".(éüÙ8ô¿è»Ï1
+	php:S1488ç"]Immediately return this expression instead of assigning it to the temporary variable "$NULL".(»æ‰ôùÿÿÿÿ8ô¿è»Ï1
+	php:S1488ã"]Immediately return this expression instead of assigning it to the temporary variable "$data".(º²•õüÿÿÿÿ8ô¿è»Ï1
+	php:S1488÷."eImmediately return this expression instead of assigning it to the temporary variable "$sqlFilterStr".(º³ÄQ8ô¿è»Ï1
+‚	php:S1488„0"`Immediately return this expression instead of assigning it to the temporary variable "$last_id".(¢³²®ùÿÿÿÿ8ô¿è»Ï1
+	php:S1488¾5"]Immediately return this expression instead of assigning it to the temporary variable "$rows".(ë†Ö„ıÿÿÿÿ8ô¿è»Ï1
+	php:S1488ã;"]Immediately return this expression instead of assigning it to the temporary variable "$rows".(Øö”üüÿÿÿÿ8ô¿è»Ï1
+€	php:S1488¿A"^Immediately return this expression instead of assigning it to the temporary variable "$beans".(áşÿÿÿÿ8ô¿è»Ï1
+	php:S1488ªX"]Immediately return this expression instead of assigning it to the temporary variable "$bean".(ıµ®æùÿÿÿÿ8ô¿è»Ï1
+	php:S1488ğa"]Immediately return this expression instead of assigning it to the temporary variable "$bean".(¨‹õùÿÿÿÿ8ô¿è»Ï1
+	php:S1488ég"]Immediately return this expression instead of assigning it to the temporary variable "$bean".(ıµ®æùÿÿÿÿ8ô¿è»Ï1
+}	php:S1488‹"_Immediately return this expression instead of assigning it to the temporary variable "$string".(Ó™¬Ş8ô¿è»Ï1
+H	php:S1481ü5"+Remove this unused "$table" local variable.(å‹¾Ó8ô¿è»Ï1
+G	php:S1481°"*Remove this unused "$isEx" local variable.(†“…ó8ô¿è»Ï1
+L	php:S1481Á"/Remove this unused "$listBeans" local variable.(ô‰ñâ8ô¿è»Ï1
+N	php:S1481ê9"1Remove this unused "$targetTable" local variable.(ªú›¡8ô¿è»Ï1
+H	php:S1481ì9"+Remove this unused "$field" local variable.(»ü³Ç8ô¿è»Ï1
+N	php:S1481î9"1Remove this unused "$targetField" local variable.(êê •8ô¿è»Ï1
+G	php:S1481¾"*Remove this unused "$isEx" local variable.(†“…ó8ô¿è»Ï1
+P	php:S1481Â9".Remove this unused "$tableNoQ" local variable.(ªĞºÿıÿÿÿÿ8ô¿è»Ï1
+Q	php:S1481ò:"4Remove this unused "$targetTableNoQ" local variable.(ô®£ç8ô¿è»Ï1
+U	php:S1481÷:"3Remove this unused "$needsToDropFK" local variable.(ÇíÔÿÿÿÿÿ8ô¿è»Ï1
+F	php:S1481®O")Remove this unused "$key" local variable.(İœ›8ô¿è»Ï1
+F	php:S1481Ø,")Remove this unused "$sql" local variable.(²ÄÑ8ô¿è»Ï1
+S	php:S1481€5"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
+I	php:S1481ìD",Remove this unused "$result" local variable.(Áàÿ×8ô¿è»Ï1
+I	php:S1481¼"'Remove this unused "$i" local variable.(³²äœşÿÿÿÿ8ô¿è»Ï1
+S	php:S1481¶3"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
+P	php:S1481Ğ<".Remove this unused "$tableNoQ" local variable.(ªĞºÿıÿÿÿÿ8ô¿è»Ï1
+N	php:S1481ß>"1Remove this unused "$sharedItems" local variable.(å‘˜å8ô¿è»Ï1
+N	php:S1481šG"1Remove this unused "$cachedIndex" local variable.(ïŸÃ¸8ô¿è»Ï1
+G	php:S1481óR"*Remove this unused "$type" local variable.(Ôä×˜8ô¿è»Ï1
+>	php:S1116À"Remove this empty statement.(†ºÛûÿÿÿÿ8õ¿è»Ï1
+>	php:S1116À"Remove this empty statement.(†ºÛûÿÿÿÿ8õ¿è»Ï1
+>	php:S1116¨:"Remove this empty statement.(®äĞáşÿÿÿÿ8õ¿è»Ï1
+9	php:S1116©:"Remove this empty statement.(‘Á¹–8õ¿è»Ï1
+?	php:S1116Ü„"Remove this empty statement.(Åñ­õşÿÿÿÿ8õ¿è»Ï1
+:	php:S1116á„"Remove this empty statement.(£ß­8õ¿è»Ï1
+:	php:S1116ä„"Remove this empty statement.(ïª¡¾8õ¿è»Ï1
+T	php:S1172¹r"2Remove the unused function parameter "$automatic".(Ùş±öüÿÿÿÿ8õ¿è»Ï1
+8	php:S3626¥"Remove this redundant jump.(ûÁİ…8õ¿è»Ï1
+‚	php:S1448•"`Class "RPDO" has 39 methods, which is greater than 20 authorized. Split it into smaller classes.(Ï¤ğ¸ÿÿÿÿÿ8õ¿è»Ï1
+	php:S1448Ó"dClass "OODBBean" has 66 methods, which is greater than 20 authorized. Split it into smaller classes.(±¬¶‘8õ¿è»Ï1
+‰	php:S1448¹%"gClass "QueryWriter" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(ıŸ¿­ùÿÿÿÿ8õ¿è»Ï1
+…	php:S1448å)"hClass "AQueryWriter" has 61 methods, which is greater than 20 authorized. Split it into smaller classes.(ıÄÅ¾8õ¿è»Ï1
+ƒ	php:S1448Ÿ>"fClass "Repository" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(Õúß 8õ¿è»Ï1
+‚	php:S1448õG"`Class "OODB" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(ğì·’ÿÿÿÿÿ8õ¿è»Ï1
+€	php:S1448´\"cClass "Facade" has 130 methods, which is greater than 20 authorized. Split it into smaller classes.(áÊÔÓ8õ¿è»Ï1
+M	php:S1068ğ\"+Remove this unused "$logger" private field.(Î¤–ûÿÿÿÿ8õ¿è»Ï1
+Q	php:S1066¹"/Merge this if statement with the enclosing one.(£öÌ ıÿÿÿÿ8õ¿è»Ï1
+L	php:S1066Â"/Merge this if statement with the enclosing one.(û²Ë‚8õ¿è»Ï1
+L	php:S1066ù"/Merge this if statement with the enclosing one.(–Éøş8õ¿è»Ï1
+Q	php:S1066Ñ"/Merge this if statement with the enclosing one.(Œ‘êùûÿÿÿÿ8õ¿è»Ï1
+Q	php:S1066‡"/Merge this if statement with the enclosing one.(¸¹ÚÜüÿÿÿÿ8õ¿è»Ï1
+Q	php:S1066Ú,"/Merge this if statement with the enclosing one.(í™Èêüÿÿÿÿ8õ¿è»Ï1
+Q	php:S1066Ò1"/Merge this if statement with the enclosing one.(ÿÒÂŠúÿÿÿÿ8õ¿è»Ï1
+L	php:S1066äD"/Merge this if statement with the enclosing one.(¼àïÖ8õ¿è»Ï1
+L	php:S1066¹x"/Merge this if statement with the enclosing one.(’Ş¤Å8õ¿è»Ï1
+_	php:S6353’0"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(Àôºí8õ¿è»Ï1
+_	php:S6353¼v"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(ÕÖØ8õ¿è»Ï1
+_	php:S6353Îv"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(ÕÖØ8õ¿è»Ï1
+~	php:S3699"\Remove this use of the output from "Debug::output"; "Debug::output" doesn't return anything.(Êİ³üúÿÿÿÿ8ö¿è»Ï1
+~	php:S3699±l"\Remove this use of the output from "self::wipeAll"; "self::wipeAll" doesn't return anything.( Š·øÿÿÿÿ8ö¿è»Ï1
+„	php:S3699 v"bRemove this use of the output from "Feature::feature"; "Feature::feature" doesn't return anything.(×æªìúÿÿÿÿ8ö¿è»Ï1
+p	php:S3699æ~"NRemove this use of the output from "header"; "header" doesn't return anything.(€¥ÚŠùÿÿÿÿ8ö¿è»Ï1
+l	php:S3699ì~"JRemove this use of the output from "exit"; "exit" doesn't return anything.(¶İÅÿÿÿÿÿ8ö¿è»Ï1
+t	php:S3973”8"WUse curly braces or indentation to denote the code conditionally executed by this "if".(êşØ¬8ö¿è»Ï1
+L	php:S6600î"/Remove the parentheses from this "return" call.(œ™À­8ö¿è»Ï1
+K	php:S6600¢"/Remove the parentheses from this "return" call.(Ö›ôl8ö¿è»Ï1
+L	php:S6600’."/Remove the parentheses from this "return" call.(›¥äì8ö¿è»Ï1
+Q	php:S6600N"/Remove the parentheses from this "return" call.(˜éáÌÿÿÿÿÿ8ö¿è»Ï1
+K	php:S6600æX"/Remove the parentheses from this "return" call.(°¹é^8ö¿è»Ï1
+L	php:S6600õ_"/Remove the parentheses from this "return" call.(Ù¤ÄÊ8ö¿è»Ï1
+L	php:S6600ªƒ"/Remove the parentheses from this "return" call.(ºÚW8ö¿è»Ï1
+L	php:S6600Ôƒ"/Remove the parentheses from this "return" call.(ºÚW8ö¿è»Ï1
+T	php:S1155è/"7Use empty() to check whether the array is empty or not.(—Èç²8ö¿è»Ï1
+Z	php:S1155ë"7Use empty() to check whether the array is empty or not.(½ÿñäıÿÿÿÿ8ö¿è»Ï1
+Z	php:S1155ë"7Use empty() to check whether the array is empty or not.(½ÿñäıÿÿÿÿ8ö¿è»Ï1
+^	php:S1793ñ@"<Replace this "else if" keyword sequence by "elseif" keyword.(­»Ûşıÿÿÿÿ8ö¿è»Ï1
+L	php:S5869Š;"*Remove duplicates in this character class.(Ü‰Ìóûÿÿÿÿ8ö¿è»Ï1
+L	php:S5869Š;"*Remove duplicates in this character class.(Ü‰Ìóûÿÿÿÿ8ö¿è»Ï1
+L	php:S5869Š;"*Remove duplicates in this character class.(Ü‰Ìóûÿÿÿÿ8÷¿è»Ï1
+Kphp:S121U"0Add curly braces around the nested statement(s).(Êñ¼8÷¿è»Ï1
+Pphp:S121g"0Add curly braces around the nested statement(s).(Ğ…‰Úûÿÿÿÿ8÷¿è»Ï1
+Lphp:S121¤"0Add curly braces around the nested statement(s).(˜À«²8÷¿è»Ï1
+Qphp:S121‹"0Add curly braces around the nested statement(s).(÷Ò´ºıÿÿÿÿ8÷¿è»Ï1
+Kphp:S121"0Add curly braces around the nested statement(s).(ªëğG8÷¿è»Ï1
+Qphp:S121º"0Add curly braces around the nested statement(s).(Ş½°Ùùÿÿÿÿ8÷¿è»Ï1
+Lphp:S121…"0Add curly braces around the nested statement(s).(Êñ¼8÷¿è»Ï1
+Lphp:S121Å"0Add curly braces around the nested statement(s).(½áÆ8÷¿è»Ï1
+Lphp:S121½"0Add curly braces around the nested statement(s).(ªÌ÷²8÷¿è»Ï1
+Qphp:S121õ"0Add curly braces around the nested statement(s).(¦Ñœşÿÿÿÿ8÷¿è»Ï1
+Lphp:S121™"0Add curly braces around the nested statement(s).(¶Ùè„8÷¿è»Ï1
+Lphp:S121¶"0Add curly braces around the nested statement(s).(€ãÑ¥8÷¿è»Ï1
+Lphp:S121ö"0Add curly braces around the nested statement(s).(¢¯À¦8÷¿è»Ï1
+Lphp:S121÷"0Add curly braces around the nested statement(s).(â¥Ï†8÷¿è»Ï1
+Qphp:S121ø"0Add curly braces around the nested statement(s).(³¶¼€üÿÿÿÿ8÷¿è»Ï1
+Lphp:S121ù"0Add curly braces around the nested statement(s).(ø…¶ƒ8÷¿è»Ï1
+Kphp:S121ú"0Add curly braces around the nested statement(s).(ìÇ8÷¿è»Ï1
+Qphp:S121û"0Add curly braces around the nested statement(s).(Ò›ÙÇùÿÿÿÿ8÷¿è»Ï1
+Lphp:S121ı"0Add curly braces around the nested statement(s).(‡® İ8÷¿è»Ï1
+Lphp:S121ş"0Add curly braces around the nested statement(s).(ˆ³ŠŞ8÷¿è»Ï1
+Lphp:S121	"0Add curly braces around the nested statement(s).(û»œ±8÷¿è»Ï1
+Lphp:S121û"0Add curly braces around the nested statement(s).(µÔñ£8÷¿è»Ï1
+Qphp:S121ç"0Add curly braces around the nested statement(s).(ùÑšƒıÿÿÿÿ8÷¿è»Ï1
+Qphp:S121±"0Add curly braces around the nested statement(s).(é²‘áøÿÿÿÿ8÷¿è»Ï1
+Qphp:S121½"0Add curly braces around the nested statement(s).(üÅıéıÿÿÿÿ8÷¿è»Ï1
+Lphp:S121Â"0Add curly braces around the nested statement(s).(û²Ë‚8÷¿è»Ï1
+Lphp:S121¢"0Add curly braces around the nested statement(s).(ÿÛ«ò8÷¿è»Ï1
+Qphp:S121Ø"0Add curly braces around the nested statement(s).(áæşŠøÿÿÿÿ8÷¿è»Ï1
+Qphp:S121‡"0Add curly braces around the nested statement(s).(¸¹ÚÜüÿÿÿÿ8÷¿è»Ï1
+Lphp:S121‘"0Add curly braces around the nested statement(s).(êÔÙ¬8÷¿è»Ï1
+Lphp:S121“"0Add curly braces around the nested statement(s).(¢³¥‰8÷¿è»Ï1
+Qphp:S121ö"0Add curly braces around the nested statement(s).(±ú¸›şÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ø"0Add curly braces around the nested statement(s).(Â«üşıÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ú"0Add curly braces around the nested statement(s).(ÀËßØûÿÿÿÿ8ø¿è»Ï1
+Qphp:S121È"0Add curly braces around the nested statement(s).(Ä‰¿£ıÿÿÿÿ8ø¿è»Ï1
+Qphp:S121É"0Add curly braces around the nested statement(s).(²‚„èøÿÿÿÿ8ø¿è»Ï1
+Qphp:S121Ê"0Add curly braces around the nested statement(s).(êîÉÀÿÿÿÿÿ8ø¿è»Ï1
+Lphp:S121Ì"0Add curly braces around the nested statement(s).(øÉ®à8ø¿è»Ï1
+Qphp:S121€"0Add curly braces around the nested statement(s).(ÌÛ¿îıÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ù!"0Add curly braces around the nested statement(s).(ßÓİ˜şÿÿÿÿ8ø¿è»Ï1
+Kphp:S121ş!"0Add curly braces around the nested statement(s).(õş‰8ø¿è»Ï1
+Qphp:S121¤""0Add curly braces around the nested statement(s).(ë˜Å®ûÿÿÿÿ8ø¿è»Ï1
+Qphp:S121¾+"0Add curly braces around the nested statement(s).(à÷ı«øÿÿÿÿ8ø¿è»Ï1
+Qphp:S121Œ-"0Add curly braces around the nested statement(s).(Çëğíøÿÿÿÿ8ø¿è»Ï1
+Lphp:S121µ-"0Add curly braces around the nested statement(s).(“ôƒ»8ø¿è»Ï1
+Lphp:S121»-"0Add curly braces around the nested statement(s).(Ó¬¯±8ø¿è»Ï1
+Qphp:S121ç-"0Add curly braces around the nested statement(s).(¶ºÖ‹ÿÿÿÿÿ8ø¿è»Ï1
+Lphp:S121­."0Add curly braces around the nested statement(s).(‹ŠÈÕ8ø¿è»Ï1
+Qphp:S121‚0"0Add curly braces around the nested statement(s).(Í€ïæüÿÿÿÿ8ø¿è»Ï1
+Lphp:S121¦1"0Add curly braces around the nested statement(s).(÷ŠÁí8ø¿è»Ï1
+Lphp:S121ı1"0Add curly braces around the nested statement(s).(Œƒó8ø¿è»Ï1
+Qphp:S121ú5"0Add curly braces around the nested statement(s).(ÕâÌûûÿÿÿÿ8ø¿è»Ï1
+Lphp:S121”8"0Add curly braces around the nested statement(s).(êşØ¬8ø¿è»Ï1
+Qphp:S121ë8"0Add curly braces around the nested statement(s).(–«•Ûøÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ì8"0Add curly braces around the nested statement(s).(Ì—ğ¶øÿÿÿÿ8ø¿è»Ï1
+Lphp:S121‹9"0Add curly braces around the nested statement(s).(ÅÄ’°8ø¿è»Ï1
+Lphp:S121Ä9"0Add curly braces around the nested statement(s).(ªÅ½÷8ø¿è»Ï1
+Qphp:S121ò9"0Add curly braces around the nested statement(s).(Á¢ğ¾ùÿÿÿÿ8ø¿è»Ï1
+Lphp:S121¤:"0Add curly braces around the nested statement(s).(¹úù¬8ø¿è»Ï1
+Qphp:S121ö:"0Add curly braces around the nested statement(s).(áà¬Õÿÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ˆ;"0Add curly braces around the nested statement(s).(›±Ùùÿÿÿÿ8ø¿è»Ï1
+Qphp:S121Œ;"0Add curly braces around the nested statement(s).(ôÍ¹Æûÿÿÿÿ8ø¿è»Ï1
+Lphp:S121Ò<"0Add curly braces around the nested statement(s).(ªÅ½÷8ø¿è»Ï1
+Lphp:S121ˆ="0Add curly braces around the nested statement(s).(¹úù¬8ø¿è»Ï1
+Qphp:S121Ü?"0Add curly braces around the nested statement(s).(Ì »åûÿÿÿÿ8ø¿è»Ï1
+Lphp:S121¶@"0Add curly braces around the nested statement(s).(¸Ê¡±8ø¿è»Ï1
+Qphp:S121‘E"0Add curly braces around the nested statement(s).(Ì »åûÿÿÿÿ8ø¿è»Ï1
+Qphp:S121¾E"0Add curly braces around the nested statement(s).(óÈæ…ÿÿÿÿÿ8ø¿è»Ï1
+Qphp:S121ûF"0Add curly braces around the nested statement(s).(Äâ¢Œşÿÿÿÿ8ø¿è»Ï1
+Qphp:S121 G"0Add curly braces around the nested statement(s).(Ì »åûÿÿÿÿ8ù¿è»Ï1
+Qphp:S121ÛI"0Add curly braces around the nested statement(s).(¬ò‡ùÿÿÿÿ8ù¿è»Ï1
+Lphp:S121“L"0Add curly braces around the nested statement(s).(ÿ·Í²8ù¿è»Ï1
+Kphp:S121”L"0Add curly braces around the nested statement(s).(‰ÎÍ68ù¿è»Ï1
+Lphp:S121ªQ"0Add curly braces around the nested statement(s).(¤£‡¬8ù¿è»Ï1
+Lphp:S121­Q"0Add curly braces around the nested statement(s).(ÙÁÈÀ8ù¿è»Ï1
+Lphp:S121ÖQ"0Add curly braces around the nested statement(s).(àÖğë8ù¿è»Ï1
+Qphp:S121×Q"0Add curly braces around the nested statement(s).(“‰Óëøÿÿÿÿ8ù¿è»Ï1
+Lphp:S121öQ"0Add curly braces around the nested statement(s).(îù £8ù¿è»Ï1
+Qphp:S121šT"0Add curly braces around the nested statement(s).(çÑıÛúÿÿÿÿ8ù¿è»Ï1
+Lphp:S121äT"0Add curly braces around the nested statement(s).(ÓæÖ¾8ù¿è»Ï1
+Lphp:S121êT"0Add curly braces around the nested statement(s).(Ì–©û8ù¿è»Ï1
+Lphp:S121û["0Add curly braces around the nested statement(s).(‡‰ó8ù¿è»Ï1
+Qphp:S121ê]"0Add curly braces around the nested statement(s).(ŒÓ”¨ıÿÿÿÿ8ù¿è»Ï1
+Qphp:S121–a"0Add curly braces around the nested statement(s).(¢•ïıÿÿÿÿ8ù¿è»Ï1
+Lphp:S121ïa"0Add curly braces around the nested statement(s).(ßŠ‡Ù8ù¿è»Ï1
+Qphp:S121Úb"0Add curly braces around the nested statement(s).(ìÉúÿÿÿÿÿ8ù¿è»Ï1
+Lphp:S121èc"0Add curly braces around the nested statement(s).(ßŠ‡Ù8ù¿è»Ï1
+Lphp:S121­g"0Add curly braces around the nested statement(s).(Àá¹8ù¿è»Ï1
+Lphp:S121çg"0Add curly braces around the nested statement(s).(¹Öæè8ù¿è»Ï1
+Qphp:S121›h"0Add curly braces around the nested statement(s).(ÇšÏåùÿÿÿÿ8ù¿è»Ï1
+Lphp:S121Ÿh"0Add curly braces around the nested statement(s).(ûÓ†8ù¿è»Ï1
+Lphp:S121ßj"0Add curly braces around the nested statement(s).(Ìêè8ù¿è»Ï1
+Lphp:S121ˆk"0Add curly braces around the nested statement(s).(Ìêè8ù¿è»Ï1
+Lphp:S121±k"0Add curly braces around the nested statement(s).(Ìêè8ù¿è»Ï1
+Lphp:S121ˆl"0Add curly braces around the nested statement(s).(¿ëıÀ8ù¿è»Ï1
+Kphp:S121‹l"0Add curly braces around the nested statement(s).(şéÑb8ù¿è»Ï1
+Qphp:S121¶n"0Add curly braces around the nested statement(s).(Æ©Ôßÿÿÿÿÿ8ù¿è»Ï1
+Qphp:S121€o"0Add curly braces around the nested statement(s).(ÀìûŸúÿÿÿÿ8ù¿è»Ï1
+Lphp:S121‚o"0Add curly braces around the nested statement(s).(°ıÃ‘8ù¿è»Ï1
+Qphp:S121ƒo"0Add curly braces around the nested statement(s).(Ôıæ¨ÿÿÿÿÿ8ù¿è»Ï1
+Qphp:S121ão"0Add curly braces around the nested statement(s).(Ïèõ ÿÿÿÿÿ8ù¿è»Ï1
+Lphp:S121Úw"0Add curly braces around the nested statement(s).(åûùè8ù¿è»Ï1
+Qphp:S121±x"0Add curly braces around the nested statement(s).(ıÛÒúÿÿÿÿ8ù¿è»Ï1
+Lphp:S121¹x"0Add curly braces around the nested statement(s).(’Ş¤Å8ù¿è»Ï1
+Lphp:S121¥z"0Add curly braces around the nested statement(s).(ÆéŠÛ8ú¿è»Ï1
+Lphp:S121¦z"0Add curly braces around the nested statement(s).(Ò£Æ¨8ú¿è»Ï1
+Lphp:S121şz"0Add curly braces around the nested statement(s).(§õÈø8ú¿è»Ï1
+Qphp:S121ız"0Add curly braces around the nested statement(s).(¶€¯ìıÿÿÿÿ8ú¿è»Ï1
+Lphp:S121|"0Add curly braces around the nested statement(s).(Äó¶ä8ú¿è»Ï1
+Qphp:S121™|"0Add curly braces around the nested statement(s).(¬ù‰¦úÿÿÿÿ8ú¿è»Ï1
+Qphp:S121Ì}"0Add curly braces around the nested statement(s).(´ùÍ‡ùÿÿÿÿ8ú¿è»Ï1
+Qphp:S121Í}"0Add curly braces around the nested statement(s).(Å‡óøÿÿÿÿ8ú¿è»Ï1
+Qphp:S121–"0Add curly braces around the nested statement(s).(Ë¤¸şÿÿÿÿ8ú¿è»Ï1
+Qphp:S121–"0Add curly braces around the nested statement(s).(Ë¤¸şÿÿÿÿ8ú¿è»Ï1
+Qphp:S121–"0Add curly braces around the nested statement(s).(Ë¤¸şÿÿÿÿ8ú¿è»Ï1
+Lphp:S121™"0Add curly braces around the nested statement(s).(³ºÙ¬8ú¿è»Ï1
+Lphp:S121™"0Add curly braces around the nested statement(s).(³ºÙ¬8ú¿è»Ï1
+Mphp:S121İ"0Add curly braces around the nested statement(s).(¢³¥‰8ú¿è»Ï1
+Mphp:S121à"0Add curly braces around the nested statement(s).(ôãèÃ8ú¿è»Ï1
+Mphp:S121ä"0Add curly braces around the nested statement(s).(ÕÛĞ‚8ú¿è»Ï1
+Rphp:S121ç"0Add curly braces around the nested statement(s).(Ä©Ñğüÿÿÿÿ8ú¿è»Ï1
+Mphp:S121ò"0Add curly braces around the nested statement(s).(ÓÑÿŸ8ú¿è»Ï1
+Rphp:S121õ"0Add curly braces around the nested statement(s).(îÏÊşÿÿÿÿ8ú¿è»Ï1
+:	php:S2010‘
+"Replace "and" with "&&".(ì‘â˜øÿÿÿÿ8ú¿è»Ï1
+Xphp:S131û"7Add a "case default" clause to this "switch" statement.(Ôóıÿÿÿÿ8ú¿è»Ï1
+Sphp:S131á~"7Add a "case default" clause to this "switch" statement.(¢ø†ğ8ú¿è»Ï1

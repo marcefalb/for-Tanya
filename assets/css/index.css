@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+	--dark: #333;
+	--light: #F4F6FA;
+	--blue: #4762FF;
+	--grey: #939496;
+	--unvalid: #FF5050;
+	
+	--b-rad: 8px;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+main {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1 auto;
+	min-height: 800px;
+	padding-top: 72px;
+}
+
+.wrapper {
+	max-width: 1110px;
+	width: 100%;
+	
+	margin: 0 auto;
+}
+.button {
+	padding: 14.5px 24px;
+	
+	background-color: var(--blue);
+	color: white;
+	border-radius: var(--b-rad);
+	cursor: pointer;
+	
+	font-weight: 500;
+	font-size: 16px;
+	
+	transition: opacity .15s ease-in-out;
+}
+.button:hover {
+	opacity: .6;
+}
+.button:active {
+	opacity: .8;
+}
+.button_active {
+	background-color: transparent;
+	color: var(--blue);
+	border: 1px solid var(--blue);
+}
+.label {
+	font-size: 16px;
+	font-weight: 500;
+}
+.input {
+	width: 100%;
+	
+	padding: 14px 24px 15px 24px;
+	
+	background-color: var(--light);
+	border-radius: var(--b-rad);
+	
+	font-size: 16px;
+}
+.input:focus::placeholder {
+	color: #8B8C8D;
+}
+.input_unvalid {
+	outline: 1px solid var(--unvalid);
+}
+.input_unvalid::placeholder {
+	color: var(--unvalid);
+}
+.input:focus {
+	outline: 1px solid var(--dark);
+}
+.input_active {
+	outline: 1px solid #939496;
+}
+.link {
+	color: var(--blue);
+	text-decoration: underline;
+}
+.link:hover {
+	opacity: .6;
+}
+.title {
+	font-weight: bold;
+	font-size: 40px;
+}
+.subtitle {
+	font-size: 18px;
+}
