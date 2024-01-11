@@ -2,7 +2,7 @@
 
 require '../../database/db.php';
 
-$token = $_COOKIE['token'];
+$token = $_COOKIE['token'] ? null;
 
 $authItem = R::findOne( 'auth', ' token = ?', [ $token ]);
 
