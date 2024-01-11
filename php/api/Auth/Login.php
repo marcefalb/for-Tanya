@@ -5,20 +5,21 @@ require '../../libs/generateRandomString.php';
 
 $_POST = json_decode(file_get_contents('php://input'), true);
 
-if ($login === $_POST['login'] && $password === $_POST['password']) {
+$user = R::findOne( 'users', ' login = ?', [ $_POST['login']);
+
+if ($user && $_POST['password'] === $user->password) {
   $token = generateRandomString(15);
 
-  $auth = R::dispense('users');
-  $auth -> token = $token;
+  $auth = R::dispense('auth');
+  $auth->token = $token;
   R::store($auth);
 
-  echo json_encode($response = array(
+  return json_encode($response = [
     'auth' => true,
     'token' => $token,
-  ));
-}
-else {
-  echo json_encode($response = array(
+  ]);
+} else {
+  return json_encode($response = [
     'auth' => false,
-  ));
+  ]);
 }

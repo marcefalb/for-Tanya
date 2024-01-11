@@ -4,15 +4,15 @@ require '../../database/db.php';
 
 $token = $_COOKIE['token'];
 
-$authItem = R::find( 'authorization', ' token LIKE ? ', [ $token ]);
+$authItem = R::findOne( 'auth', ' token = ?', [ $token ]);
 
-if (!empty($authItem)) {
-  echo json_encode($response = array(
+if ($authItem) {
+  return json_encode($response = [
     'auth' => true,
-  ));
+  ]);
 }
 else {
-  echo json_encode($response = array(
+  return json_encode($response = [
     'auth' => false,
-  ));
+  ]);
 }

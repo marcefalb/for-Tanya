@@ -27,3 +27,16 @@ F
 php/api/Auth/Login.php,0\e\0e8abd316a8634a68eb7b47c293b3132ab6207b4
 Q
 !php/libs/generateRandomString.php,3\1\310e610f2d872c4e0ac9c6e33b9b7d44fad61d03
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+=
+messages.html,4\a\4aade2659ad8ab627711d0ce9d949449bbd43b9b
+G
+assets/css/messages.css,6\8\680a7c2089363ebb2b7adeb6b68d4f52c9c9f0c2
+I
+assets/js/registration.js,c\a\caedd406346e081b5de5b1fac17ed3e4006a72d2
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e

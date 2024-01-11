@@ -11,6 +11,12 @@
 	margin-top: 24px;
 	font-size: 60px;
 }
+.registration__subtitle {
+	margin-top: 12px;
+}
+.registration__subtitle a {
+	color: var(--blue);
+}
 .registration__textfields {
 	display: flex;
 	flex-direction: column;

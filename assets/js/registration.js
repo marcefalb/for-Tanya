@@ -1,13 +1,21 @@
-const inputs = document.querySelectorAll('.authorization__textfields input');
-const authBtn = document.querySelector('.authorization__login');
-const authValidation = document.querySelector('.auth-validation');
+const inputs = document.querySelectorAll('.registration__textfields input');
+const regBtn = document.querySelector('.registration__login');
+const regValidation = document.querySelector('.auth-validation');
 
-authBtn.addEventListener('click', () => {
+const checkIsLoginValid = (login) => {
+  return /^[A-Za-z0-9_-]+$/.test(login);
+};
+const checkIsPasswordValid = (password) => {
+  return password.length >= 6;
+}
+
+regBtn.addEventListener('click', () => {
   const activeClass = 'input_unvalid';
+  const [login, password, remember] = inputs;
   let validation = true;
   
   inputs.forEach(input => {
-    if (!input.value) {
+    if (!input.value && checkIsLoginValid(login) && checkIsPasswordValid(password)) {
       input.classList.add(activeClass);
       validation = false;
       
@@ -15,9 +23,7 @@ authBtn.addEventListener('click', () => {
     }
   });
   if (validation) {
-    const [login, password, remember] = inputs;
-    
-    fetch('../../php/api/Auth/Login.php', {
+    fetch('../../php/api/Auth/Register.php', {
       method: 'POST',
       body: JSON.stringify({
         login: login.value,
@@ -34,9 +40,8 @@ authBtn.addEventListener('click', () => {
             });
           }
           window.location.pathname = '/messages.html';
-        }
-        else {
-          authValidation.classList.add('auth-validation_active');
+        } else {
+          window.location.pathname = '/authorization.html';
         }
       })
   }

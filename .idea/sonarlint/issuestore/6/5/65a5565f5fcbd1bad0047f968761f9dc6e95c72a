@@ -1,13 +1,6 @@
 
 Q	php:S1135ï"4Complete the task associated to this "TODO" comment.(„áñ8½¿è»Ï1
 Q	php:S1135ğ"4Complete the task associated to this "TODO" comment.(ëÈ…8½¿è»Ï1
-]	php:S1131Ğ>"@Remove the useless trailing whitespaces at the end of this line.(âˆšÙ8½¿è»Ï1
-]	php:S1131Õ>"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8½¿è»Ï1
-]	php:S1131ét"@Remove the useless trailing whitespaces at the end of this line.(—Ë±µ8½¿è»Ï1
-]	php:S1131{"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
-^	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
-^	php:S1131¿‚"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤8¾¿è»Ï1
-^	php:S1131Ã‚"@Remove the useless trailing whitespaces at the end of this line.(Éàüù8¾¿è»Ï1
 Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8¾¿è»Ï1
 lphp:S103ƒ"KSplit this 121 characters long line (which is greater than 120 authorized).(ÁäØ¼şÿÿÿÿ8¾¿è»Ï1
 lphp:S103¥"KSplit this 127 characters long line (which is greater than 120 authorized).(ÙàÌÁÿÿÿÿÿ8¾¿è»Ï1
@@ -693,25 +686,25 @@ v	php:S5843Š;"TSimplify this regular expression to reduce its complexity from 
 	php:S1488ég"]Immediately return this expression instead of assigning it to the temporary variable "$bean".(ıµ®æùÿÿÿÿ8ô¿è»Ï1
 }	php:S1488‹"_Immediately return this expression instead of assigning it to the temporary variable "$string".(Ó™¬Ş8ô¿è»Ï1
 H	php:S1481ü5"+Remove this unused "$table" local variable.(å‹¾Ó8ô¿è»Ï1
-G	php:S1481°"*Remove this unused "$isEx" local variable.(†“…ó8ô¿è»Ï1
-L	php:S1481Á"/Remove this unused "$listBeans" local variable.(ô‰ñâ8ô¿è»Ï1
+F	php:S1481Ø,")Remove this unused "$sql" local variable.(²ÄÑ8ô¿è»Ï1
 N	php:S1481ê9"1Remove this unused "$targetTable" local variable.(ªú›¡8ô¿è»Ï1
 H	php:S1481ì9"+Remove this unused "$field" local variable.(»ü³Ç8ô¿è»Ï1
 N	php:S1481î9"1Remove this unused "$targetField" local variable.(êê •8ô¿è»Ï1
+S	php:S1481¶3"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
+F	php:S1481®O")Remove this unused "$key" local variable.(İœ›8ô¿è»Ï1
+P	php:S1481Ğ<".Remove this unused "$tableNoQ" local variable.(ªĞºÿıÿÿÿÿ8ô¿è»Ï1
 G	php:S1481¾"*Remove this unused "$isEx" local variable.(†“…ó8ô¿è»Ï1
+L	php:S1481Á"/Remove this unused "$listBeans" local variable.(ô‰ñâ8ô¿è»Ï1
 P	php:S1481Â9".Remove this unused "$tableNoQ" local variable.(ªĞºÿıÿÿÿÿ8ô¿è»Ï1
 Q	php:S1481ò:"4Remove this unused "$targetTableNoQ" local variable.(ô®£ç8ô¿è»Ï1
 U	php:S1481÷:"3Remove this unused "$needsToDropFK" local variable.(ÇíÔÿÿÿÿÿ8ô¿è»Ï1
-F	php:S1481®O")Remove this unused "$key" local variable.(İœ›8ô¿è»Ï1
-F	php:S1481Ø,")Remove this unused "$sql" local variable.(²ÄÑ8ô¿è»Ï1
-S	php:S1481€5"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
-I	php:S1481ìD",Remove this unused "$result" local variable.(Áàÿ×8ô¿è»Ï1
 I	php:S1481¼"'Remove this unused "$i" local variable.(³²äœşÿÿÿÿ8ô¿è»Ï1
-S	php:S1481¶3"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
-P	php:S1481Ğ<".Remove this unused "$tableNoQ" local variable.(ªĞºÿıÿÿÿÿ8ô¿è»Ï1
-N	php:S1481ß>"1Remove this unused "$sharedItems" local variable.(å‘˜å8ô¿è»Ï1
+G	php:S1481°"*Remove this unused "$isEx" local variable.(†“…ó8ô¿è»Ï1
+I	php:S1481ìD",Remove this unused "$result" local variable.(Áàÿ×8ô¿è»Ï1
 N	php:S1481šG"1Remove this unused "$cachedIndex" local variable.(ïŸÃ¸8ô¿è»Ï1
+N	php:S1481ß>"1Remove this unused "$sharedItems" local variable.(å‘˜å8ô¿è»Ï1
 G	php:S1481óR"*Remove this unused "$type" local variable.(Ôä×˜8ô¿è»Ï1
+S	php:S1481€5"1Remove this unused "$sourceTable" local variable.(ø°±şÿÿÿÿ8ô¿è»Ï1
 >	php:S1116À"Remove this empty statement.(†ºÛûÿÿÿÿ8õ¿è»Ï1
 >	php:S1116À"Remove this empty statement.(†ºÛûÿÿÿÿ8õ¿è»Ï1
 >	php:S1116¨:"Remove this empty statement.(®äĞáşÿÿÿÿ8õ¿è»Ï1

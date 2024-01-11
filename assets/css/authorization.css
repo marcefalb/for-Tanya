@@ -11,6 +11,12 @@
 	margin-top: 24px;
 	font-size: 60px;
 }
+.authorization__subtitle {
+	margin-top: 12px;
+}
+.authorization__subtitle a {
+	color: var(--blue);
+}
 .authorization__textfields {
 	display: flex;
 	flex-direction: column;

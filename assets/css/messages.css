@@ -1,0 +1,9 @@
+.messages__wrapper {
+	display: flex;
+	flex-direction: column;
+}
+.messages__title {
+	margin-top: 24px;
+	font-size: 60px;
+	text-align: center;
+}
