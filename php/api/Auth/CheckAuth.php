@@ -2,17 +2,19 @@
 
 require '../../database/db.php';
 
-$token = $_COOKIE['token'] ? null;
+if ($_COOKIE['token']) {
+  $token = $_COOKIE['token'];
 
-$authItem = R::findOne( 'auth', ' token = ?', [ $token ]);
+	$authItem = R::findOne( 'auth', ' token = ?', [ $token ]);
 
-if ($authItem) {
-  return json_encode($response = [
-    'auth' => true,
-  ]);
+	if ($authItem && $token) {
+		return json_encode($response = [
+			'auth' => true,
+		]);
+	} else {
+		return json_encode($response = [
+			'auth' => false,
+		]);
+	}
 }
-else {
-  return json_encode($response = [
-    'auth' => false,
-  ]);
-}
+

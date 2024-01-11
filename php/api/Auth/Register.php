@@ -5,7 +5,7 @@ require '../../libs/generateRandomString.php';
 
 $_POST = json_decode(file_get_contents('php://input'), true);
 
-$hasUser = R::findOne( 'users', ' login = ?', [ $_POST['login']);
+$hasUser = R::findOne( 'users', ' login = ?', $_POST['login']);
 
 if (!$hasUser) {
   $token = generateRandomString(15);
