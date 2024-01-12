@@ -7,8 +7,6 @@ H
 assets/css/normalize.css,a\9\a9f1879f0c2d451f1847368214af66d919dd2f7a
 D
 assets/css/index.css,c\7\c727b236df3a9f69c7dc5affcc2bcd18f0858ba6
-A
-registration.html,d\c\dc41fbd578bda2ac8278dada8f262d8aef46c1d9
 K
 assets/css/registration.css,f\8\f88c3f0873aab33797b0ca19e9593e9bb37b13b6
 J
@@ -40,3 +38,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+G
+php/api/Auth/Logout.php,a\2\a2ed01711db55007a7501529ad7c4db25ec63072
+E
+assets/js/messages.js,6\f\6f4fb67a91115f72e426661cb495ac4936360671

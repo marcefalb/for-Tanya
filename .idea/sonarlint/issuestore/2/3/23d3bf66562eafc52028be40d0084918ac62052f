@@ -1,4 +1,4 @@
 
-Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8Μ•¦ΜΟ1
-B	php:S2003"&Replace "require" with "require_once".(οδ±8Ξ¨ΜΟ1
-h	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(οδ±8Ξ¨ΜΟ1
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ΙϊµΝΟ1
+B	php:S2003"&Replace "require" with "require_once".(οδ±8ΙϊµΝΟ1
+h	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(οδ±8ΙϊµΝΟ1
